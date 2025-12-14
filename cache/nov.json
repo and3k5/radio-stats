@@ -1,5 +1,75 @@
 [
     {
+        "nowPlayingTrackId": 470477,
+        "nowPlayingTrack": "Baya",
+        "nowPlayingArtist": "BATHSHEBA, Safri Duo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470477.jpg?ver=1758649528",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470477.jpg?ver=1758649528",
+        "nowPlayingTime": "2025-12-14 22:03:40",
+        "nowPlayingDuration": 172,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1834927618?i=1834927636"
+    },
+    {
+        "nowPlayingTrackId": 250060,
+        "nowPlayingTrack": "Fall So Hard",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/250060.jpg?ver=1616251832",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/250060.jpg?ver=1616251832",
+        "nowPlayingTime": "2025-12-14 21:42:08",
+        "nowPlayingDuration": 214,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1553482459?i=1553482467"
+    },
+    {
+        "nowPlayingTrackId": 388673,
+        "nowPlayingTrack": "Up",
+        "nowPlayingArtist": "Jonah Blacksmith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388673.jpg?ver=1707324333",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388673.jpg?ver=1707324333",
+        "nowPlayingTime": "2025-12-14 21:21:08",
+        "nowPlayingDuration": 211,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1727194869?i=1727194876"
+    },
+    {
+        "nowPlayingTrackId": 401900,
+        "nowPlayingTrack": "Birds Of A Feather",
+        "nowPlayingArtist": "Billie Eilish",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2025-12-14 21:04:49",
+        "nowPlayingDuration": 197,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 388673,
+        "nowPlayingTrack": "Up",
+        "nowPlayingArtist": "Jonah Blacksmith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388673.jpg?ver=1707324333",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388673.jpg?ver=1707324333",
+        "nowPlayingTime": "2025-12-14 20:57:49",
+        "nowPlayingDuration": 211,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1727194869?i=1727194876"
+    },
+    {
+        "nowPlayingTrackId": 462973,
+        "nowPlayingTrack": "Survive",
+        "nowPlayingArtist": "Lewis Capaldi",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/462973.jpg?ver=1750977545",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/462973.jpg?ver=1750977545",
+        "nowPlayingTime": "2025-12-14 20:54:08",
+        "nowPlayingDuration": 220,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1819073308?i=1819073311"
+    },
+    {
+        "nowPlayingTrackId": 477032,
+        "nowPlayingTrack": "Merry Christmas",
+        "nowPlayingArtist": "Drew Sycamore",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/477032.jpg?ver=1762730469",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/477032.jpg?ver=1762730469",
+        "nowPlayingTime": "2025-12-14 20:51:18",
+        "nowPlayingDuration": 151,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1846341587?i=1846341591"
+    },
+    {
         "nowPlayingTrackId": 437485,
         "nowPlayingTrack": "Hele Vejen",
         "nowPlayingArtist": "Omar ft. Mumle",
