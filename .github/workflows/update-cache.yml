@@ -1,0 +1,22 @@
+name: Push commit
+on: 
+    workflow_dispatch:
+    schedule:
+      - cron: '0 4 * * *'
+permissions:
+  contents: write
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create report file
+        run: date +%s > report.txt
+      - name: Commit report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config --global user.email 'none@example.com'
+          npm run update-cache nov
+          git add cache
+          git commit -m "Update cache"
+          git push
