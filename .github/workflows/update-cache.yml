@@ -1,4 +1,4 @@
-name: Push commit
+name: Update cache
 on: 
     workflow_dispatch:
     schedule:
