@@ -1,7 +1,7 @@
 {
   "name": "radio-stats",
   "version": "1.0.0",
-  "description": "https://listenapi.planetradio.co.uk/api9.2/events/nov/2025-12-14%2019%3A33%3A15/48",
+  "description": "radio stats",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
