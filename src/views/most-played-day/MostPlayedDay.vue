@@ -1,14 +1,25 @@
 <template>
-    <h2>Most played - day</h2>
-    <button type="button" @click="goTo(currentKey, 'list')" :disabled="mode === 'list'">List</button><button type="button" @click="goTo(currentKey, 'chart')" :disabled="mode === 'chart'">Chart</button>
-    <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-        <button type="button" :disabled="prevDate == null" @click="goTo(prevDate, mode)">&lt;</button>
-        <select>
-            <option v-for="date in availableDates" :key="date" :value="date" :selected="date == currentKey">{{ new Date(date).toLocaleDateString(undefined, { dateStyle: "full"}) }}</option>
-        </select>
-        <button type="button" :disabled="nextDate == null" @click="goTo(nextDate, mode)">&gt;</button>
+    <div class="container-fluid">
+        <h2>Most played - day</h2>
+        <div class="btn-group mb-3">
+            <button :class="{'btn': true, 'btn-secondary': mode === 'list', 'btn-outline-secondary': mode !== 'list'}" type="button" @click="goTo(currentKey, 'list')" :disabled="mode === 'list'">List</button>
+            <button :class="{'btn': true, 'btn-secondary': mode === 'chart', 'btn-outline-secondary': mode !== 'chart'}" type="button" @click="goTo(currentKey, 'chart')" :disabled="mode === 'chart'">Chart</button>
+        </div>
+
+        <div class="input-group mb-3">
+            <button class="btn btn-secondary" type="button" :disabled="prevDate == null" @click="goTo(prevDate, mode)">&lt;</button>
+            <select class="form-select">
+                <option v-for="date in availableDates" :key="date" :value="date" :selected="date == currentKey">{{ new Date(date).toLocaleDateString(undefined, { dateStyle: "full"}) }}</option>
+            </select>
+            <button class="btn btn-secondary" type="button" :disabled="nextDate == null" @click="goTo(nextDate, mode)">&gt;</button>
+        </div>
+
+        <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
+            
+            
+        </div>
+        <Component :is="props.mode === 'chart' ? ChartView : ListView" :itemPlayStats="itemPlayStats"></Component>
     </div>
-    <Component :is="props.mode === 'chart' ? ChartView : ListView" :itemPlayStats="itemPlayStats"></Component>
 </template>
 
 <script setup lang="ts">
