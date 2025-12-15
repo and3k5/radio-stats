@@ -1,32 +1,34 @@
 <template>
     <h2>Most played - day</h2>
+    <button type="button" @click="goTo(currentKey, 'list')" :disabled="mode === 'list'">List</button><button type="button" @click="goTo(currentKey, 'chart')" :disabled="mode === 'chart'">Chart</button>
     <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-        <button type="button" :disabled="prevDate == null" @click="goTo(prevDate)">&lt;</button>
+        <button type="button" :disabled="prevDate == null" @click="goTo(prevDate, mode)">&lt;</button>
         <select>
             <option v-for="date in availableDates" :key="date" :value="date" :selected="date == currentKey">{{ new Date(date).toLocaleDateString(undefined, { dateStyle: "full"}) }}</option>
         </select>
-        <button type="button" :disabled="nextDate == null" @click="goTo(nextDate)">&gt;</button>
+        <button type="button" :disabled="nextDate == null" @click="goTo(nextDate, mode)">&gt;</button>
     </div>
-    <canvas ref="chartCanvas"></canvas>
+    <Component :is="props.mode === 'chart' ? ChartView : ListView" :itemPlayStats="itemPlayStats"></Component>
 </template>
 
 <script setup lang="ts">
-import Chart, { ChartData } from 'chart.js/auto';
-import { NowPlayingTrack } from '../api/NowPlayingTrack';
-import { computed, markRaw, onMounted, ref, shallowRef, watch } from 'vue';
-import { useRouter } from 'vue-router';
+import { NowPlayingTrack } from '../../api/NowPlayingTrack';
+import { computed, defineAsyncComponent, markRaw, onMounted, ref, shallowRef, watch } from 'vue';
+import { RouterView, useRouter } from 'vue-router';
+const ChartView = defineAsyncComponent(() => import('./MostPlayedDayChart.vue'));
+const ListView = defineAsyncComponent(() => import('./MostPlayedDayList.vue'));
 
 const props = defineProps<{
+    mode: "chart" | "list";
     code: string;
-    year: number;
-    month: number;
-    day: number;
+    date? : undefined | {
+        year: number;
+        month: number;
+        day: number;
+    }
 }>();
 
-
-
 const playedItems = ref<NowPlayingTrack[]>();
-const chart = shallowRef<Chart>();
 
 fetch("/cache/"+props.code+".json").then(res => res.json()).then(data => {
     playedItems.value = data;
@@ -56,12 +58,27 @@ const availableDates = computed(() => {
     });
 })
 
+function dateStringToParts(str : string | undefined | null) {
+    if (!str) return undefined;
+    const [year, month, day] = str.substring(0, 10).split("-").map(x => parseInt(x, 10));
+    return { year, month, day };
+}
+
+const dateValue = computed(() => {
+    return props.date ?? dateStringToParts(playedItems.value?.find(x => true)?.nowPlayingTime);
+
+});
+
 const playedEntries = computed(() => {
+    const date = dateValue.value;
+    
+    if (!date || !playedItems.value) return [];
+
     const entries = (playedItems.value ?? []).filter(item => {
         const playedAt = new Date(item.nowPlayingTime);
-        return playedAt.getFullYear() === props.year &&
-               playedAt.getMonth() + 1 === props.month &&
-               playedAt.getDate() === props.day;
+        return playedAt.getFullYear() === date.year &&
+               playedAt.getMonth() + 1 === date.month &&
+               playedAt.getDate() === date.day;
     });
     return entries;
 });
@@ -88,32 +105,10 @@ const itemPlayStats = computed(() => {
     return groupedById;
 })
 
-watch(() => itemPlayStats.value, (newStats) => {
-    if (!chart.value) return;
-    updateChart(newStats, chart.value);
-});
-
-function updateChart(newStats : (typeof itemPlayStats)["value"], chart: Chart) {
-
-    const labels = newStats.slice(0, 10).map(x => x.artist + " - " + x.title);
-    
-    const playCounts = newStats.slice(0,10).map(x => x.count);
-
-    console.log("Updating chart with new data");
-    chart.data.labels = JSON.parse(JSON.stringify(labels));
-    chart.data.datasets = JSON.parse(JSON.stringify([{
-        label: 'Most played day',
-        data: playCounts,
-    }]));
-    chart.update();
-}
-
-
-const chartCanvas = ref<HTMLCanvasElement>();
-
-const currentKey = computed(() => makeDateKey(new Date(props.year, props.month - 1, props.day)));
+const currentKey = computed(() => dateValue.value ? makeDateKey(new Date(dateValue.value.year, dateValue.value.month - 1, dateValue.value.day)) : undefined);
 
 const nextDate = computed(() => {
+    if (!currentKey.value) return undefined;
     if (!availableDates.value.includes(currentKey.value)) {
         return undefined;
     }
@@ -122,6 +117,7 @@ const nextDate = computed(() => {
 });
 
 const prevDate = computed(() => {
+    if (!currentKey.value) return undefined;
     if (!availableDates.value.includes(currentKey.value)) {
         availableDates.value[availableDates.value.length - 1]
     }
@@ -131,13 +127,14 @@ const prevDate = computed(() => {
 
 const router = useRouter();
 
-function goTo(d : undefined | string) {
+function goTo(d : undefined | string, mode : string) {
     if (!d) return;
     const [year, month, day] = d.split("-").map(x => parseInt(x, 10));
     router.replace({
-        name: "most-played-day-chart",
+        name: "most-played-day",
         params: {
             code: props.code,
+            mode: mode,
             year: year,
             month: month,
             day: day,
@@ -145,19 +142,5 @@ function goTo(d : undefined | string) {
     });
 }
 
-onMounted(() => {
-    if (chartCanvas.value == null) throw new Error("Canvas not found");
-    chart.value = new Chart(chartCanvas.value, {
-        type: "bar",
-        data: {
-            labels: [],
-            datasets: [],
-        },
-        options: {
-            responsive: true,
-        }
-    });
-    updateChart(itemPlayStats.value, chart.value);
-});
 
 </script>

@@ -1,4 +1,15 @@
 import { createRouter, createWebHashHistory } from 'vue-router';
+
+function parseNumber(value: string | string[] | undefined) : number | undefined {
+    if (typeof value === "string") {
+        const n = Number(value);
+        if (!isNaN(n)) {
+            return n;
+        }
+    }
+    return undefined;
+}
+
 const router = createRouter({
     history: createWebHashHistory(),
     routes: [
@@ -7,42 +18,35 @@ const router = createRouter({
             path: "/",
             redirect(to) {
                 return {
-                    name: "most-played-day-chart",
+                    name: "most-played-day",
                     params: {
                         radioCode: "nov",
-                        year: new Date().getFullYear(),
-                        month: (new Date().getMonth() + 1).toString().padStart(2, '0'),
-                        day: (new Date().getDate()).toString().padStart(2, '0'),
+                        mode: "chart"
                     }
                 }
             },
         },
         {
-            name: "most-played-day-chart",
-            path: "/most-played-day/chart/:radioCode/:year/:month/:day",
-            component: () => import("../views/MostPlayedDayChart.vue"),
+            name: "most-played-day",
+            path: "/most-played-day/:radioCode/:mode/:year?/:month?/:day?",
+            component: () => import("../views/most-played-day/MostPlayedDay.vue"),
             props(to) {
+
+                const year = parseNumber(to.params.year);
+                const month = parseNumber(to.params.month);
+                const day = parseNumber(to.params.day);
+
                 return {
                     code: to.params.radioCode,
-                    year: Number(to.params.year),
-                    month: Number(to.params.month),
-                    day: Number(to.params.day),
+                    date: year && month && day ? {
+                        year,
+                        month,
+                        day,
+                    } : undefined,
+                    mode: to.params.mode,
                 }
             }
-        },
-        {
-            name: "most-played-day-list",
-            path: "/most-played-day/list/:radioCode/:year/:month/:day",
-            component: () => import("../views/MostPlayedDayList.vue"),
-            props(to) {
-                return {
-                    code: to.params.radioCode,
-                    year: Number(to.params.year),
-                    month: Number(to.params.month),
-                    day: Number(to.params.day),
-                }
-            }
-        },
+        }
     ],
 })
 
