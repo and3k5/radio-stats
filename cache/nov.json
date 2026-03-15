@@ -1,5 +1,3265 @@
 [
     {
+        "nowPlayingTrackId": 64967,
+        "nowPlayingTrack": "No Air",
+        "nowPlayingArtist": "Jordin Sparks and Chris Brown",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/64967.jpg?ver=1533146474",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/64967.jpg?ver=1533146474",
+        "nowPlayingTime": "2026-03-15 05:24:54",
+        "nowPlayingDuration": 240,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/280272438?i=280272468"
+    },
+    {
+        "nowPlayingTrackId": 222846,
+        "nowPlayingTrack": "Fly Away",
+        "nowPlayingArtist": "Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/222846.jpg?ver=1616183782",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/222846.jpg?ver=1616183782",
+        "nowPlayingTime": "2026-03-15 05:21:59",
+        "nowPlayingDuration": 177,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1538450696?i=1538451008"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-15 05:14:59",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 482637,
+        "nowPlayingTrack": "If u kno u kno",
+        "nowPlayingArtist": "KEDDE ft. Karoline Mousing",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482637.jpg?ver=1767719196",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482637.jpg?ver=1767719196",
+        "nowPlayingTime": "2026-03-15 05:12:39",
+        "nowPlayingDuration": 139,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859380538?i=1859380539"
+    },
+    {
+        "nowPlayingTrackId": 446274,
+        "nowPlayingTrack": "Priceless",
+        "nowPlayingArtist": "Maroon 5 ft. Lisa",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/446274.jpg?ver=1746311576",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/446274.jpg?ver=1746311576",
+        "nowPlayingTime": "2026-03-15 05:10:00",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1810385824?i=1810385825"
+    },
+    {
+        "nowPlayingTrackId": 147700,
+        "nowPlayingTrack": "Post Malone",
+        "nowPlayingArtist": "Sam Feldt ft. RANI",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/147700.jpg?ver=1561133751",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/147700.jpg?ver=1561133751",
+        "nowPlayingTime": "2026-03-15 05:07:05",
+        "nowPlayingDuration": 174,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1462753693?i=1462754070"
+    },
+    {
+        "nowPlayingTrackId": 432244,
+        "nowPlayingTrack": "Messy",
+        "nowPlayingArtist": "Lola Young",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/432244.jpg?ver=1734895998",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/432244.jpg?ver=1734895998",
+        "nowPlayingTime": "2026-03-15 05:03:49",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1743250148?i=1743250261"
+    },
+    {
+        "nowPlayingTrackId": 432641,
+        "nowPlayingTrack": "Du Ligner Din Mor",
+        "nowPlayingArtist": "Benjamin Hav ft. Lukas Graham",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/432641.jpg?ver=1735254303",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/432641.jpg?ver=1735254303",
+        "nowPlayingTime": "2026-03-15 05:00:55",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1782092223?i=1782092422"
+    },
+    {
+        "nowPlayingTrackId": 489172,
+        "nowPlayingTrack": "Fever Dream",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489172.jpg?ver=1772153474",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489172.jpg?ver=1772153474",
+        "nowPlayingTime": "2026-03-15 04:54:44",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1804419951?i=1804420167"
+    },
+    {
+        "nowPlayingTrackId": 42597,
+        "nowPlayingTrack": "Thrift Shop",
+        "nowPlayingArtist": "Macklemore and Ryan Lewis ft. Wanz",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/42597.jpg?ver=1538705711",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/42597.jpg?ver=1538705711",
+        "nowPlayingTime": "2026-03-15 04:51:15",
+        "nowPlayingDuration": 230,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 471971,
+        "nowPlayingTrack": "Opalite",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471971.jpg?ver=1760110846",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471971.jpg?ver=1760110846",
+        "nowPlayingTime": "2026-03-15 04:47:29",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843998665?i=1843998672"
+    },
+    {
+        "nowPlayingTrackId": 9712,
+        "nowPlayingTrack": "Safe And Sound",
+        "nowPlayingArtist": "Capital Cities",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/9712.jpg?ver=1464810548",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/9712.jpg?ver=1464810548",
+        "nowPlayingTime": "2026-03-15 04:44:17",
+        "nowPlayingDuration": 182,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/662924507?i=662924638"
+    },
+    {
+        "nowPlayingTrackId": 326840,
+        "nowPlayingTrack": "Føles Godt",
+        "nowPlayingArtist": "Uro ft. Mekdes",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/326840.jpg?ver=1664090420",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/326840.jpg?ver=1664090420",
+        "nowPlayingTime": "2026-03-15 04:41:29",
+        "nowPlayingDuration": 163,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1644893751?i=1644893755"
+    },
+    {
+        "nowPlayingTrackId": 484156,
+        "nowPlayingTrack": "Silent Treatment",
+        "nowPlayingArtist": "Freya Skye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/484156.jpg?ver=1768710998",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/484156.jpg?ver=1768710998",
+        "nowPlayingTime": "2026-03-15 04:34:03",
+        "nowPlayingDuration": 141,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1852132455?i=1852132457"
+    },
+    {
+        "nowPlayingTrackId": 490507,
+        "nowPlayingTrack": "Ham Med Guitaren",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-15 04:30:46",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 14975,
+        "nowPlayingTrack": "Whenever, Wherever",
+        "nowPlayingArtist": "Shakira",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/2166.jpg?ver=1465084262",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/2166.jpg?ver=1465084262",
+        "nowPlayingTime": "2026-03-15 04:27:35",
+        "nowPlayingDuration": 186,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/188260845?i=188261849"
+    },
+    {
+        "nowPlayingTrackId": 466366,
+        "nowPlayingTrack": "Golden",
+        "nowPlayingArtist": "Huntr/x",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466366.jpg?ver=1754351704",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466366.jpg?ver=1754351704",
+        "nowPlayingTime": "2026-03-15 04:24:24",
+        "nowPlayingDuration": 159,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1824324832?i=1824325143"
+    },
+    {
+        "nowPlayingTrackId": 482903,
+        "nowPlayingTrack": "Jeg Tror Jeg Elsker Dig For Evigt",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482903.jpg?ver=1767927871",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482903.jpg?ver=1767927871",
+        "nowPlayingTime": "2026-03-15 04:17:17",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859547515?i=1859547516"
+    },
+    {
+        "nowPlayingTrackId": 488393,
+        "nowPlayingTrack": "Louisiana",
+        "nowPlayingArtist": "Sofie1998",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-15 04:13:47",
+        "nowPlayingDuration": 205,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 408515,
+        "nowPlayingTrack": "Good Luck, Babe!",
+        "nowPlayingArtist": "Chappell Roan",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/408515.jpg?ver=1721921662",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/408515.jpg?ver=1721921662",
+        "nowPlayingTime": "2026-03-15 04:10:13",
+        "nowPlayingDuration": 209,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1737497078?i=1737497080"
+    },
+    {
+        "nowPlayingTrackId": 250019,
+        "nowPlayingTrack": "Love The Way You Lie",
+        "nowPlayingArtist": "Eminem and Rihanna",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/250019.jpg?ver=1616251709",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/250019.jpg?ver=1616251709",
+        "nowPlayingTime": "2026-03-15 04:05:50",
+        "nowPlayingDuration": 212,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1440759247?i=1440759823"
+    },
+    {
+        "nowPlayingTrackId": 469919,
+        "nowPlayingTrack": "While I Wait",
+        "nowPlayingArtist": "Calby",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469919.jpg?ver=1758061030",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469919.jpg?ver=1758061030",
+        "nowPlayingTime": "2026-03-15 04:02:56",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1831817043?i=1831817044"
+    },
+    {
+        "nowPlayingTrackId": 470477,
+        "nowPlayingTrack": "Baya",
+        "nowPlayingArtist": "BATHSHEBA, Safri Duo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470477.jpg?ver=1758649528",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470477.jpg?ver=1758649528",
+        "nowPlayingTime": "2026-03-15 04:00:00",
+        "nowPlayingDuration": 172,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1834927618?i=1834927636"
+    },
+    {
+        "nowPlayingTrackId": 466190,
+        "nowPlayingTrack": "12 to 12",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466190.jpg?ver=1754213302",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466190.jpg?ver=1754213302",
+        "nowPlayingTime": "2026-03-15 03:52:34",
+        "nowPlayingDuration": 228,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1828036634?i=1828036635"
+    },
+    {
+        "nowPlayingTrackId": 29726,
+        "nowPlayingTrack": "Pregnant",
+        "nowPlayingArtist": "Phlake",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/29726.jpg?ver=1492394968",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/29726.jpg?ver=1492394968",
+        "nowPlayingTime": "2026-03-15 03:48:51",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1116967830?i=1116968058"
+    },
+    {
+        "nowPlayingTrackId": 469911,
+        "nowPlayingTrack": "Fire Uger",
+        "nowPlayingArtist": "Mumle",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469911.jpg?ver=1758059707",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469911.jpg?ver=1758059707",
+        "nowPlayingTime": "2026-03-15 03:45:27",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1835404293?i=1835404295"
+    },
+    {
+        "nowPlayingTrackId": 12780,
+        "nowPlayingTrack": "Viva La Vida",
+        "nowPlayingArtist": "Coldplay",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/12780.jpg?ver=1464803384",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/12780.jpg?ver=1464803384",
+        "nowPlayingTime": "2026-03-15 03:41:43",
+        "nowPlayingDuration": 212,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/693573205?i=693573514"
+    },
+    {
+        "nowPlayingTrackId": 410723,
+        "nowPlayingTrack": "Die With A Smile",
+        "nowPlayingArtist": "Lady GaGa and Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/410723.jpg?ver=1723785725",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/410723.jpg?ver=1723785725",
+        "nowPlayingTime": "2026-03-15 03:39:04",
+        "nowPlayingDuration": 175,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1762656724?i=1762656732"
+    },
+    {
+        "nowPlayingTrackId": 472549,
+        "nowPlayingTrack": "Vil du noget?",
+        "nowPlayingArtist": "Guldimund and Saveus",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472549.jpg?ver=1760562126",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472549.jpg?ver=1760562126",
+        "nowPlayingTime": "2026-03-15 03:30:56",
+        "nowPlayingDuration": 179,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1841393783?i=1841393787"
+    },
+    {
+        "nowPlayingTrackId": 467598,
+        "nowPlayingTrack": "Man I Need",
+        "nowPlayingArtist": "Olivia Dean",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467598.jpg?ver=1755444758",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467598.jpg?ver=1755444758",
+        "nowPlayingTime": "2026-03-15 03:27:58",
+        "nowPlayingDuration": 181,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1817609404?i=1817609509"
+    },
+    {
+        "nowPlayingTrackId": 3329,
+        "nowPlayingTrack": "Euphoria",
+        "nowPlayingArtist": "Loreen",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/3329.jpg?ver=1464810747",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/3329.jpg?ver=1464810747",
+        "nowPlayingTime": "2026-03-15 03:25:00",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/499907070?i=499907132"
+    },
+    {
+        "nowPlayingTrackId": 320925,
+        "nowPlayingTrack": "Flyvende Faduma",
+        "nowPlayingArtist": "Tobias Rahim",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/320925.jpg?ver=1659688061",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/320925.jpg?ver=1659688061",
+        "nowPlayingTime": "2026-03-15 03:21:44",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1632879235?i=1632879245"
+    },
+    {
+        "nowPlayingTrackId": 471173,
+        "nowPlayingTrack": "The Fate Of Ophelia",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471173.jpg?ver=1759465087",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471173.jpg?ver=1759465087",
+        "nowPlayingTime": "2026-03-15 03:14:14",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833328839?i=1833328840"
+    },
+    {
+        "nowPlayingTrackId": 471893,
+        "nowPlayingTrack": "Gone Gone Gone",
+        "nowPlayingArtist": "David Guetta ft. Teddy Swims ft. Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471893.jpg?ver=1760044756",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471893.jpg?ver=1760044756",
+        "nowPlayingTime": "2026-03-15 03:10:56",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843159672?i=1843159674"
+    },
+    {
+        "nowPlayingTrackId": 396245,
+        "nowPlayingTrack": "Belong Together",
+        "nowPlayingArtist": "Mark Ambor",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/396245.jpg?ver=1712390662",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/396245.jpg?ver=1712390662",
+        "nowPlayingTime": "2026-03-15 03:08:28",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1732802336?i=1732802340"
+    },
+    {
+        "nowPlayingTrackId": 8548,
+        "nowPlayingTrack": "One Last Time",
+        "nowPlayingArtist": "Ariana Grande",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/8548.jpg?ver=1464815424",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/8548.jpg?ver=1464815424",
+        "nowPlayingTime": "2026-03-15 03:05:20",
+        "nowPlayingDuration": 186,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/894161577?i=894161875"
+    },
+    {
+        "nowPlayingTrackId": 458286,
+        "nowPlayingTrack": "En drøm om et menneske",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/458286.jpg?ver=1747430034",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/458286.jpg?ver=1747430034",
+        "nowPlayingTime": "2026-03-15 03:02:59",
+        "nowPlayingDuration": 170,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1809265463?i=1809265464"
+    },
+    {
+        "nowPlayingTrackId": 401177,
+        "nowPlayingTrack": "Stargazing",
+        "nowPlayingArtist": "Myles Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/401177.jpg?ver=1716132843",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/401177.jpg?ver=1716132843",
+        "nowPlayingTime": "2026-03-15 03:00:11",
+        "nowPlayingDuration": 165,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1742275516?i=1742275653"
+    },
+    {
+        "nowPlayingTrackId": 484894,
+        "nowPlayingTrack": "Aperture",
+        "nowPlayingArtist": "Harry Styles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/484894.jpg?ver=1769127517",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/484894.jpg?ver=1769127517",
+        "nowPlayingTime": "2026-03-15 02:53:11",
+        "nowPlayingDuration": 203,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1870984032?i=1870984033"
+    },
+    {
+        "nowPlayingTrackId": 5918,
+        "nowPlayingTrack": "In Da Club",
+        "nowPlayingArtist": "50 Cent",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/871.jpg?ver=1465083665",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/871.jpg?ver=1465083665",
+        "nowPlayingTime": "2026-03-15 02:49:59",
+        "nowPlayingDuration": 204,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/13072608?i=13577862"
+    },
+    {
+        "nowPlayingTrackId": 482912,
+        "nowPlayingTrack": "I Just Might",
+        "nowPlayingArtist": "Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482912.jpg?ver=1767939696",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482912.jpg?ver=1767939696",
+        "nowPlayingTime": "2026-03-15 02:46:30",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1866732792?i=1866732800"
+    },
+    {
+        "nowPlayingTrackId": 25163,
+        "nowPlayingTrack": "Human",
+        "nowPlayingArtist": "Rag'n'Bone Man",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/25163.jpg?ver=1533138916",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/25163.jpg?ver=1533138916",
+        "nowPlayingTime": "2026-03-15 02:43:14",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1173599790?i=1173600551"
+    },
+    {
+        "nowPlayingTrackId": 242143,
+        "nowPlayingTrack": "Stjernerne",
+        "nowPlayingArtist": "Lord Siva",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/242143.jpg?ver=1616228675",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/242143.jpg?ver=1616228675",
+        "nowPlayingTime": "2026-03-15 02:39:53",
+        "nowPlayingDuration": 201,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1544741799?i=1544741800"
+    },
+    {
+        "nowPlayingTrackId": 469802,
+        "nowPlayingTrack": "Talk To Me",
+        "nowPlayingArtist": "Damiano David, Tyla, Nile Rodgers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469802.jpg?ver=1757888215",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469802.jpg?ver=1757888215",
+        "nowPlayingTime": "2026-03-15 02:31:35",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 471971,
+        "nowPlayingTrack": "Opalite",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471971.jpg?ver=1760110846",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471971.jpg?ver=1760110846",
+        "nowPlayingTime": "2026-03-15 02:27:43",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843998665?i=1843998672"
+    },
+    {
+        "nowPlayingTrackId": 9570,
+        "nowPlayingTrack": "Rolling In The Deep",
+        "nowPlayingArtist": "Adele",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/79.jpg?ver=1634295596",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/79.jpg?ver=1634295596",
+        "nowPlayingTime": "2026-03-15 02:23:55",
+        "nowPlayingDuration": 217,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/403037872?i=403037877"
+    },
+    {
+        "nowPlayingTrackId": 7404,
+        "nowPlayingTrack": "Lush Life",
+        "nowPlayingArtist": "Zara Larsson",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/7404.jpg?ver=1533138049",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/7404.jpg?ver=1533138049",
+        "nowPlayingTime": "2026-03-15 02:20:35",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1099324364?i=1099324371"
+    },
+    {
+        "nowPlayingTrackId": 460802,
+        "nowPlayingTrack": "Kogeplade",
+        "nowPlayingArtist": "Katinka",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/460802.jpg?ver=1748985884",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/460802.jpg?ver=1748985884",
+        "nowPlayingTime": "2026-03-15 02:14:21",
+        "nowPlayingDuration": 155,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1810186647?i=1810186648"
+    },
+    {
+        "nowPlayingTrackId": 488394,
+        "nowPlayingTrack": "Før Vi Går Hjem",
+        "nowPlayingArtist": "Søren Torpegaard Lund",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/488394.jpg?ver=1771506157",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/488394.jpg?ver=1771506157",
+        "nowPlayingTime": "2026-03-15 02:11:29",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1660255833?i=1660255841"
+    },
+    {
+        "nowPlayingTrackId": 438118,
+        "nowPlayingTrack": "Sorry I'm Here For Someone Else",
+        "nowPlayingArtist": "Benson Boone",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/438118.jpg?ver=1740758079",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/438118.jpg?ver=1740758079",
+        "nowPlayingTime": "2026-03-15 02:08:52",
+        "nowPlayingDuration": 151,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1797895103?i=1797895104"
+    },
+    {
+        "nowPlayingTrackId": 114031,
+        "nowPlayingTrack": "High Hopes",
+        "nowPlayingArtist": "Panic! At The Disco",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/114031.jpg?ver=1533143199",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/114031.jpg?ver=1533143199",
+        "nowPlayingTime": "2026-03-15 02:05:40",
+        "nowPlayingDuration": 187,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1361152002?i=1361152303"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-15 02:02:27",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 338595,
+        "nowPlayingTrack": "Terrier",
+        "nowPlayingArtist": "Ida Laurberg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/338595.jpg?ver=1671757063",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/338595.jpg?ver=1671757063",
+        "nowPlayingTime": "2026-03-15 01:59:06",
+        "nowPlayingDuration": 198,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1658902839?i=1658903304"
+    },
+    {
+        "nowPlayingTrackId": 310394,
+        "nowPlayingTrack": "I Ain't Worried",
+        "nowPlayingArtist": "OneRepublic",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/225.jpg?ver=1465083292",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/225.jpg?ver=1465083292",
+        "nowPlayingTime": "2026-03-15 01:53:04",
+        "nowPlayingDuration": 145,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1621817793?i=1621817894"
+    },
+    {
+        "nowPlayingTrackId": 489293,
+        "nowPlayingTrack": "Prøveperiode",
+        "nowPlayingArtist": "Ella Augusta",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489293.jpg?ver=1772237566",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489293.jpg?ver=1772237566",
+        "nowPlayingTime": "2026-03-15 01:50:22",
+        "nowPlayingDuration": 160,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1872775534?i=1872775537"
+    },
+    {
+        "nowPlayingTrackId": 108037,
+        "nowPlayingTrack": "Happy Home",
+        "nowPlayingArtist": "Hedegaard ft. Lukas Graham",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/108037.jpg?ver=1533144612",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/108037.jpg?ver=1533144612",
+        "nowPlayingTime": "2026-03-15 01:46:44",
+        "nowPlayingDuration": 216,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/833802735?i=833807934"
+    },
+    {
+        "nowPlayingTrackId": 470866,
+        "nowPlayingTrack": "Where Is My Husband!",
+        "nowPlayingArtist": "Raye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470866.jpg?ver=1759048685",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470866.jpg?ver=1759048685",
+        "nowPlayingTime": "2026-03-15 01:43:31",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1838737596?i=1838737598"
+    },
+    {
+        "nowPlayingTrackId": 30262,
+        "nowPlayingTrack": "Don't Let Me Get Me",
+        "nowPlayingArtist": "P!nk",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/30262.jpg?ver=1491444663",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/30262.jpg?ver=1491444663",
+        "nowPlayingTime": "2026-03-15 01:40:21",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/399792343?i=399792356"
+    },
+    {
+        "nowPlayingTrackId": 436375,
+        "nowPlayingTrack": "Ordinary",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/436375.jpg?ver=1738922181",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/436375.jpg?ver=1738922181",
+        "nowPlayingTime": "2026-03-15 01:37:17",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1793663382?i=1793663645"
+    },
+    {
+        "nowPlayingTrackId": 392501,
+        "nowPlayingTrack": "End Of Beginning",
+        "nowPlayingArtist": "Djo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/392501.jpg?ver=1709484571",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/392501.jpg?ver=1709484571",
+        "nowPlayingTime": "2026-03-15 01:29:23",
+        "nowPlayingDuration": 157,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1632447652?i=1632448108"
+    },
+    {
+        "nowPlayingTrackId": 472860,
+        "nowPlayingTrack": "Changes",
+        "nowPlayingArtist": "Charlie Puth",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472860.jpg?ver=1760822779",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472860.jpg?ver=1760822779",
+        "nowPlayingTime": "2026-03-15 01:26:22",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1845189970?i=1845189972"
+    },
+    {
+        "nowPlayingTrackId": 779,
+        "nowPlayingTrack": "Are You With Me",
+        "nowPlayingArtist": "Lost Frequencies",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/779.jpg?ver=1464801860",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/779.jpg?ver=1464801860",
+        "nowPlayingTime": "2026-03-15 01:23:47",
+        "nowPlayingDuration": 123,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/908230388?i=908230424"
+    },
+    {
+        "nowPlayingTrackId": 394731,
+        "nowPlayingTrack": "Austin",
+        "nowPlayingArtist": "Dasha",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/394731.jpg?ver=1711185107",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/394731.jpg?ver=1711185107",
+        "nowPlayingTime": "2026-03-15 01:21:00",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1712830614?i=1712830616"
+    },
+    {
+        "nowPlayingTrackId": 482873,
+        "nowPlayingTrack": "drømmefanger",
+        "nowPlayingArtist": "Mille ft. URO",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482873.jpg?ver=1767916284",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482873.jpg?ver=1767916284",
+        "nowPlayingTime": "2026-03-15 01:15:02",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859969180?i=1859969181"
+    },
+    {
+        "nowPlayingTrackId": 470654,
+        "nowPlayingTrack": "Stay",
+        "nowPlayingArtist": "Myles Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470654.jpg?ver=1758841783",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470654.jpg?ver=1758841783",
+        "nowPlayingTime": "2026-03-15 01:11:56",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837714947?i=1837714951"
+    },
+    {
+        "nowPlayingTrackId": 388485,
+        "nowPlayingTrack": "Stumblin' In",
+        "nowPlayingArtist": "CYRIL",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388485.jpg?ver=1706687580",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388485.jpg?ver=1706687580",
+        "nowPlayingTime": "2026-03-15 01:08:43",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1716033381?i=1716033386"
+    },
+    {
+        "nowPlayingTrackId": 4916,
+        "nowPlayingTrack": "Hold Back The River",
+        "nowPlayingArtist": "James Bay",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/27.jpg?ver=1465083168",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/27.jpg?ver=1465083168",
+        "nowPlayingTime": "2026-03-15 01:05:17",
+        "nowPlayingDuration": 201,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/956135747?i=956135758"
+    },
+    {
+        "nowPlayingTrackId": 482903,
+        "nowPlayingTrack": "Jeg Tror Jeg Elsker Dig For Evigt",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482903.jpg?ver=1767927871",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482903.jpg?ver=1767927871",
+        "nowPlayingTime": "2026-03-15 01:02:02",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859547515?i=1859547516"
+    },
+    {
+        "nowPlayingTrackId": 421478,
+        "nowPlayingTrack": "Bad Dreams",
+        "nowPlayingArtist": "Teddy Swims",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/421478.jpg?ver=1726201091",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/421478.jpg?ver=1726201091",
+        "nowPlayingTime": "2026-03-15 00:59:05",
+        "nowPlayingDuration": 173,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1765799903?i=1765799904"
+    },
+    {
+        "nowPlayingTrackId": 38884,
+        "nowPlayingTrack": "Du GØr Mig",
+        "nowPlayingArtist": "L.o.c.",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/38884.jpg?ver=1538187362",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/38884.jpg?ver=1538187362",
+        "nowPlayingTime": "2026-03-15 00:52:12",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/693249214?i=693249305"
+    },
+    {
+        "nowPlayingTrackId": 469970,
+        "nowPlayingTrack": "Sandheden",
+        "nowPlayingArtist": "Rasmus Seebach and Artigeardit",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469970.jpg?ver=1758252206",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469970.jpg?ver=1758252206",
+        "nowPlayingTime": "2026-03-15 00:49:26",
+        "nowPlayingDuration": 160,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837933930?i=1837933940"
+    },
+    {
+        "nowPlayingTrackId": 10182,
+        "nowPlayingTrack": "Shut Up And Dance",
+        "nowPlayingArtist": "Walk The Moon",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/124.jpg?ver=1465083219",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/124.jpg?ver=1465083219",
+        "nowPlayingTime": "2026-03-15 00:46:08",
+        "nowPlayingDuration": 187,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/936832274?i=936832279"
+    },
+    {
+        "nowPlayingTrackId": 349022,
+        "nowPlayingTrack": "Eyes Closed",
+        "nowPlayingArtist": "Ed Sheeran",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/48.jpg?ver=1465083182",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/48.jpg?ver=1465083182",
+        "nowPlayingTime": "2026-03-15 00:42:55",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1673804537?i=1673804556"
+    },
+    {
+        "nowPlayingTrackId": 486822,
+        "nowPlayingTrack": "Homewrecker",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/486822.jpg?ver=1770351630",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/486822.jpg?ver=1770351630",
+        "nowPlayingTime": "2026-03-15 00:34:40",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1871595252?i=1871595253"
+    },
+    {
+        "nowPlayingTrackId": 467857,
+        "nowPlayingTrack": "Gabriela",
+        "nowPlayingArtist": "Katseye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467857.jpg?ver=1755811591",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467857.jpg?ver=1755811591",
+        "nowPlayingTime": "2026-03-15 00:31:25",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833229057?i=1833229061"
+    },
+    {
+        "nowPlayingTrackId": 193836,
+        "nowPlayingTrack": "Let Her Go",
+        "nowPlayingArtist": "Passenger",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/193836.jpg?ver=1593445529",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/193836.jpg?ver=1593445529",
+        "nowPlayingTime": "2026-03-15 00:27:33",
+        "nowPlayingDuration": 170,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/574409566?i=574409679"
+    },
+    {
+        "nowPlayingTrackId": 468434,
+        "nowPlayingTrack": "Tears",
+        "nowPlayingArtist": "Sabrina Carpenter",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/468434.jpg?ver=1756442543",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/468434.jpg?ver=1756442543",
+        "nowPlayingTime": "2026-03-15 00:25:16",
+        "nowPlayingDuration": 132,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1792819540?i=1792819689"
+    },
+    {
+        "nowPlayingTrackId": 489182,
+        "nowPlayingTrack": "Flue i et spind",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489182.jpg?ver=1772158395",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489182.jpg?ver=1772158395",
+        "nowPlayingTime": "2026-03-15 00:18:24",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1875110038?i=1875110039"
+    },
+    {
+        "nowPlayingTrackId": 485839,
+        "nowPlayingTrack": "Daisy",
+        "nowPlayingArtist": "Albert Heath",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-15 00:15:18",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 437378,
+        "nowPlayingTrack": "Er Det Mig Du Elsker?",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/437378.jpg?ver=1739957429",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/437378.jpg?ver=1739957429",
+        "nowPlayingTime": "2026-03-15 00:12:28",
+        "nowPlayingDuration": 165,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/201683251?i=201684907"
+    },
+    {
+        "nowPlayingTrackId": 104781,
+        "nowPlayingTrack": "Unstoppable",
+        "nowPlayingArtist": "Sia",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/406.jpg?ver=1465083387",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/406.jpg?ver=1465083387",
+        "nowPlayingTime": "2026-03-15 00:08:52",
+        "nowPlayingDuration": 211,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1055074478?i=1055074639"
+    },
+    {
+        "nowPlayingTrackId": 471971,
+        "nowPlayingTrack": "Opalite",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471971.jpg?ver=1760110846",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471971.jpg?ver=1760110846",
+        "nowPlayingTime": "2026-03-15 00:05:03",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843998665?i=1843998672"
+    },
+    {
+        "nowPlayingTrackId": 294386,
+        "nowPlayingTrack": "Enemy",
+        "nowPlayingArtist": "Imagine Dragons ft. JID",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/294386.jpg?ver=1641235219",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/294386.jpg?ver=1641235219",
+        "nowPlayingTime": "2026-03-15 00:02:10",
+        "nowPlayingDuration": 167,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1593813507?i=1593813937"
+    },
+    {
+        "nowPlayingTrackId": 9768,
+        "nowPlayingTrack": "Saturday Night",
+        "nowPlayingArtist": "Whigfield",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/9768.jpg?ver=1464805342",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/9768.jpg?ver=1464805342",
+        "nowPlayingTime": "2026-03-14 23:54:28",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/120153040?i=120152901"
+    },
+    {
+        "nowPlayingTrackId": 369970,
+        "nowPlayingTrack": "Greedy",
+        "nowPlayingArtist": "Tate McRae",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/369970.jpg?ver=1694735633",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/369970.jpg?ver=1694735633",
+        "nowPlayingTime": "2026-03-14 23:52:19",
+        "nowPlayingDuration": 129,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1706381100?i=1706381103"
+    },
+    {
+        "nowPlayingTrackId": 222846,
+        "nowPlayingTrack": "Fly Away",
+        "nowPlayingArtist": "Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/222846.jpg?ver=1616183782",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/222846.jpg?ver=1616183782",
+        "nowPlayingTime": "2026-03-14 23:49:15",
+        "nowPlayingDuration": 177,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1538450696?i=1538451008"
+    },
+    {
+        "nowPlayingTrackId": 426287,
+        "nowPlayingTrack": "Forever Young",
+        "nowPlayingArtist": "David Guetta, Alphaville and Ava Max",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/426287.jpg?ver=1729204149",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/426287.jpg?ver=1729204149",
+        "nowPlayingTime": "2026-03-14 23:46:46",
+        "nowPlayingDuration": 153,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1773298059?i=1773298068"
+    },
+    {
+        "nowPlayingTrackId": 14613,
+        "nowPlayingTrack": "Get Ur Freak On",
+        "nowPlayingArtist": "Missy Elliott",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/14613.jpg?ver=1465416203",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/14613.jpg?ver=1465416203",
+        "nowPlayingTime": "2026-03-14 23:43:47",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/184939619?i=184939699"
+    },
+    {
+        "nowPlayingTrackId": 455725,
+        "nowPlayingTrack": "Blessings",
+        "nowPlayingArtist": "Calvin Harris, Clementine Douglas",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/455725.jpg?ver=1746818182",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/455725.jpg?ver=1746818182",
+        "nowPlayingTime": "2026-03-14 23:34:55",
+        "nowPlayingDuration": 214,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1811333156?i=1811333176"
+    },
+    {
+        "nowPlayingTrackId": 340664,
+        "nowPlayingTrack": "Work With My Love",
+        "nowPlayingArtist": "Alok and James Arthur",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/340664.jpg?ver=1673613540",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/340664.jpg?ver=1673613540",
+        "nowPlayingTime": "2026-03-14 23:32:26",
+        "nowPlayingDuration": 139,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1661307998?i=1661307999"
+    },
+    {
+        "nowPlayingTrackId": 7223,
+        "nowPlayingTrack": "Love In This Club",
+        "nowPlayingArtist": "Usher ft. Young Jeezy",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/7223.jpg?ver=1464800934",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/7223.jpg?ver=1464800934",
+        "nowPlayingTime": "2026-03-14 23:28:39",
+        "nowPlayingDuration": 250,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/280907518?i=280907530"
+    },
+    {
+        "nowPlayingTrackId": 426692,
+        "nowPlayingTrack": "Apt.",
+        "nowPlayingArtist": "Rose and Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/426692.jpg?ver=1729516624",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/426692.jpg?ver=1729516624",
+        "nowPlayingTime": "2026-03-14 23:25:57",
+        "nowPlayingDuration": 160,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1773452219?i=1773452221"
+    },
+    {
+        "nowPlayingTrackId": 470866,
+        "nowPlayingTrack": "Where Is My Husband!",
+        "nowPlayingArtist": "Raye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470866.jpg?ver=1759048685",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470866.jpg?ver=1759048685",
+        "nowPlayingTime": "2026-03-14 23:18:46",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1838737596?i=1838737598"
+    },
+    {
+        "nowPlayingTrackId": 243533,
+        "nowPlayingTrack": "Your Love",
+        "nowPlayingArtist": "ATB ft. TOPIC ft. A7S",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/243533.jpg?ver=1616232587",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/243533.jpg?ver=1616232587",
+        "nowPlayingTime": "2026-03-14 23:16:23",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1535122701?i=1535123295"
+    },
+    {
+        "nowPlayingTrackId": 357008,
+        "nowPlayingTrack": "Love Isn't Easy",
+        "nowPlayingArtist": "Kind mod Kind ft. Medina",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/357008.jpg?ver=1685050450",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/357008.jpg?ver=1685050450",
+        "nowPlayingTime": "2026-03-14 23:12:45",
+        "nowPlayingDuration": 213,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1687504223?i=1687504235"
+    },
+    {
+        "nowPlayingTrackId": 436375,
+        "nowPlayingTrack": "Ordinary",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/436375.jpg?ver=1738922181",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/436375.jpg?ver=1738922181",
+        "nowPlayingTime": "2026-03-14 23:10:16",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1793663382?i=1793663645"
+    },
+    {
+        "nowPlayingTrackId": 391263,
+        "nowPlayingTrack": "Lovers In A Past Life",
+        "nowPlayingArtist": "Calvin Harris ft. Rag'n'Bone Man",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/391263.jpg?ver=1708634338",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/391263.jpg?ver=1708634338",
+        "nowPlayingTime": "2026-03-14 23:07:52",
+        "nowPlayingDuration": 155,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1729198779?i=1729198782"
+    },
+    {
+        "nowPlayingTrackId": 243228,
+        "nowPlayingTrack": "Proper Education",
+        "nowPlayingArtist": "Eric Prydz vs. Pink Floyd",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/243228.jpg?ver=1616231739",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/243228.jpg?ver=1616231739",
+        "nowPlayingTime": "2026-03-14 23:04:32",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/379749352?i=379749822"
+    },
+    {
+        "nowPlayingTrackId": 466366,
+        "nowPlayingTrack": "Golden",
+        "nowPlayingArtist": "Huntr/x",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466366.jpg?ver=1754351704",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466366.jpg?ver=1754351704",
+        "nowPlayingTime": "2026-03-14 23:01:23",
+        "nowPlayingDuration": 159,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1824324832?i=1824325143"
+    },
+    {
+        "nowPlayingTrackId": 6666,
+        "nowPlayingTrack": "Lay It All On Me",
+        "nowPlayingArtist": "Rudimental ft. Ed Sheeran",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/6666.jpg?ver=1464803948",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/6666.jpg?ver=1464803948",
+        "nowPlayingTime": "2026-03-14 22:53:35",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/996114106?i=996114124"
+    },
+    {
+        "nowPlayingTrackId": 342409,
+        "nowPlayingTrack": "React",
+        "nowPlayingArtist": "Switch Disco ft. Ella Henderson and Robert Miles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/342409.jpg?ver=1674846730",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/342409.jpg?ver=1674846730",
+        "nowPlayingTime": "2026-03-14 22:50:20",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1663845294?i=1663845297"
+    },
+    {
+        "nowPlayingTrackId": 199396,
+        "nowPlayingTrack": "Take You Dancing",
+        "nowPlayingArtist": "Jason Derulo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/199396.jpg?ver=1595502125",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/199396.jpg?ver=1595502125",
+        "nowPlayingTime": "2026-03-14 22:47:08",
+        "nowPlayingDuration": 183,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1523535933?i=1523536240"
+    },
+    {
+        "nowPlayingTrackId": 4025,
+        "nowPlayingTrack": "Get Busy",
+        "nowPlayingArtist": "Sean Paul",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/4025.jpg?ver=1464811583",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/4025.jpg?ver=1464811583",
+        "nowPlayingTime": "2026-03-14 22:43:44",
+        "nowPlayingDuration": 165,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/79305595?i=79305464"
+    },
+    {
+        "nowPlayingTrackId": 468804,
+        "nowPlayingTrack": "The Dead Dance",
+        "nowPlayingArtist": "Lady GaGa",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/29.jpg?ver=1465083169",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/29.jpg?ver=1465083169",
+        "nowPlayingTime": "2026-03-14 22:34:43",
+        "nowPlayingDuration": 218,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837298856?i=1837298858"
+    },
+    {
+        "nowPlayingTrackId": 243518,
+        "nowPlayingTrack": "Friday",
+        "nowPlayingArtist": "Riton ft. Nightcrawlers ft. Mufasa and Hypeman",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/243518.jpg?ver=1616232525",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/243518.jpg?ver=1616232525",
+        "nowPlayingTime": "2026-03-14 22:31:57",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1544962410?i=1544962737"
+    },
+    {
+        "nowPlayingTrackId": 118917,
+        "nowPlayingTrack": "Bananza ",
+        "nowPlayingArtist": "Akon",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/874.jpg?ver=1465083666",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/874.jpg?ver=1465083666",
+        "nowPlayingTime": "2026-03-14 22:28:43",
+        "nowPlayingDuration": 23,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/93151162?i=93151186"
+    },
+    {
+        "nowPlayingTrackId": 378532,
+        "nowPlayingTrack": "Houdini",
+        "nowPlayingArtist": "Dua Lipa",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/378532.jpg?ver=1699571104",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/378532.jpg?ver=1699571104",
+        "nowPlayingTime": "2026-03-14 22:25:38",
+        "nowPlayingDuration": 182,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1714502820?i=1714502827"
+    },
+    {
+        "nowPlayingTrackId": 477255,
+        "nowPlayingTrack": "100 Dage",
+        "nowPlayingArtist": "Thor Farlov",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/477255.jpg?ver=1762991162",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/477255.jpg?ver=1762991162",
+        "nowPlayingTime": "2026-03-14 22:19:17",
+        "nowPlayingDuration": 153,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1847634184?i=1847634188"
+    },
+    {
+        "nowPlayingTrackId": 397732,
+        "nowPlayingTrack": "For Life",
+        "nowPlayingArtist": "Kygo ft. Zak Abel and Nile Rodgers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/397732.jpg?ver=1713491482",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/397732.jpg?ver=1713491482",
+        "nowPlayingTime": "2026-03-14 22:16:34",
+        "nowPlayingDuration": 166,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1633184563?i=1633184850"
+    },
+    {
+        "nowPlayingTrackId": 347967,
+        "nowPlayingTrack": "It Just Won't Do",
+        "nowPlayingArtist": "Tim Deluxe, Sam Obernik",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/347967.jpg?ver=1678695756",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/347967.jpg?ver=1678695756",
+        "nowPlayingTime": "2026-03-14 22:13:09",
+        "nowPlayingDuration": 191,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/479016538?i=479016539"
+    },
+    {
+        "nowPlayingTrackId": 476685,
+        "nowPlayingTrack": "Breakup Glow",
+        "nowPlayingArtist": "Saint clara",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/476685.jpg?ver=1762474190",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/476685.jpg?ver=1762474190",
+        "nowPlayingTime": "2026-03-14 22:10:27",
+        "nowPlayingDuration": 161,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1845301396?i=1845301399"
+    },
+    {
+        "nowPlayingTrackId": 369968,
+        "nowPlayingTrack": "On My Love",
+        "nowPlayingArtist": "Zara Larsson and David Guetta",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/369968.jpg?ver=1694733104",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/369968.jpg?ver=1694733104",
+        "nowPlayingTime": "2026-03-14 22:07:33",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1707209493?i=1707209497"
+    },
+    {
+        "nowPlayingTrackId": 262893,
+        "nowPlayingTrack": "Fun",
+        "nowPlayingArtist": "Pitbull and Chris Brown",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/262893.jpg?ver=1621005799",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/262893.jpg?ver=1621005799",
+        "nowPlayingTime": "2026-03-14 22:04:10",
+        "nowPlayingDuration": 202,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/933984003?i=933984085"
+    },
+    {
+        "nowPlayingTrackId": 472640,
+        "nowPlayingTrack": "Hello",
+        "nowPlayingArtist": "Sigala ft. Leigh-Anne ft. Jonita Gandhi",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472640.jpg?ver=1760653253",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472640.jpg?ver=1760653253",
+        "nowPlayingTime": "2026-03-14 22:01:22",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1840872870?i=1840872873"
+    },
+    {
+        "nowPlayingTrackId": 364249,
+        "nowPlayingTrack": "Desire",
+        "nowPlayingArtist": "Calvin Harris ft. Sam Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/364249.jpg?ver=1690495375",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/364249.jpg?ver=1690495375",
+        "nowPlayingTime": "2026-03-14 21:54:34",
+        "nowPlayingDuration": 167,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1696083313?i=1696083506"
+    },
+    {
+        "nowPlayingTrackId": 7257,
+        "nowPlayingTrack": "Love Me Again",
+        "nowPlayingArtist": "John Newman",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/7257.jpg?ver=1464811885",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/7257.jpg?ver=1464811885",
+        "nowPlayingTime": "2026-03-14 21:51:10",
+        "nowPlayingDuration": 205,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/640379985?i=640380403"
+    },
+    {
+        "nowPlayingTrackId": 388485,
+        "nowPlayingTrack": "Stumblin' In",
+        "nowPlayingArtist": "CYRIL",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388485.jpg?ver=1706687580",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388485.jpg?ver=1706687580",
+        "nowPlayingTime": "2026-03-14 21:47:59",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1716033381?i=1716033386"
+    },
+    {
+        "nowPlayingTrackId": 118337,
+        "nowPlayingTrack": "Gasolina",
+        "nowPlayingArtist": "Daddy Yankee",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/118337.jpg?ver=1533660230",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/118337.jpg?ver=1533660230",
+        "nowPlayingTime": "2026-03-14 21:44:54",
+        "nowPlayingDuration": 195,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/83091088?i=83090584"
+    },
+    {
+        "nowPlayingTrackId": 467857,
+        "nowPlayingTrack": "Gabriela",
+        "nowPlayingArtist": "Katseye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467857.jpg?ver=1755811591",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467857.jpg?ver=1755811591",
+        "nowPlayingTime": "2026-03-14 21:36:22",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833229057?i=1833229061"
+    },
+    {
+        "nowPlayingTrackId": 350601,
+        "nowPlayingTrack": "Baby Don't Hurt Me",
+        "nowPlayingArtist": "David Guetta and Anne-Marie and Coi Leray",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/350601.jpg?ver=1680816357",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/350601.jpg?ver=1680816357",
+        "nowPlayingTime": "2026-03-14 21:34:05",
+        "nowPlayingDuration": 136,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1679958196?i=1679958210"
+    },
+    {
+        "nowPlayingTrackId": 12455,
+        "nowPlayingTrack": "Trick Me",
+        "nowPlayingArtist": "Kelis",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/757.jpg?ver=1465083600",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/757.jpg?ver=1465083600",
+        "nowPlayingTime": "2026-03-14 21:30:57",
+        "nowPlayingDuration": 183,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/714778862?i=714778891"
+    },
+    {
+        "nowPlayingTrackId": 331660,
+        "nowPlayingTrack": "Never Gonna Not Dance Again",
+        "nowPlayingArtist": "P!nk",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/331660.jpg?ver=1667517101",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/331660.jpg?ver=1667517101",
+        "nowPlayingTime": "2026-03-14 21:27:15",
+        "nowPlayingDuration": 217,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1652351449?i=1652351453"
+    },
+    {
+        "nowPlayingTrackId": 467176,
+        "nowPlayingTrack": "Ingen Yin Uden Yang",
+        "nowPlayingArtist": "Tobias Rahim ft. Mille",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467176.jpg?ver=1755168934",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467176.jpg?ver=1755168934",
+        "nowPlayingTime": "2026-03-14 21:21:05",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1826720457?i=1826720460"
+    },
+    {
+        "nowPlayingTrackId": 331673,
+        "nowPlayingTrack": "10:35",
+        "nowPlayingArtist": "Tiësto and Tate McRae",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/331673.jpg?ver=1667523515",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/331673.jpg?ver=1667523515",
+        "nowPlayingTime": "2026-03-14 21:18:15",
+        "nowPlayingDuration": 167,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 7732,
+        "nowPlayingTrack": "Miss Independent",
+        "nowPlayingArtist": "Ne-Yo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/7732.jpg?ver=1464800867",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/7732.jpg?ver=1464800867",
+        "nowPlayingTime": "2026-03-14 21:14:22",
+        "nowPlayingDuration": 223,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/290063052?i=290063057"
+    },
+    {
+        "nowPlayingTrackId": 470866,
+        "nowPlayingTrack": "Where Is My Husband!",
+        "nowPlayingArtist": "Raye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470866.jpg?ver=1759048685",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470866.jpg?ver=1759048685",
+        "nowPlayingTime": "2026-03-14 21:11:13",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1838737596?i=1838737598"
+    },
+    {
+        "nowPlayingTrackId": 329953,
+        "nowPlayingTrack": "Lionheart",
+        "nowPlayingArtist": "Joel Corry and Tom Grennan",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/329953.jpg?ver=1666300598",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/329953.jpg?ver=1666300598",
+        "nowPlayingTime": "2026-03-14 21:08:07",
+        "nowPlayingDuration": 182,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1648548768?i=1648548979"
+    },
+    {
+        "nowPlayingTrackId": 122531,
+        "nowPlayingTrack": "History",
+        "nowPlayingArtist": "Michael Jackson",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/87584.jpg?ver=1645792271",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/87584.jpg?ver=1645792271",
+        "nowPlayingTime": "2026-03-14 21:03:54",
+        "nowPlayingDuration": 259,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/310505551?i=310505569"
+    },
+    {
+        "nowPlayingTrackId": 460978,
+        "nowPlayingTrack": "Sapphire",
+        "nowPlayingArtist": "Ed Sheeran",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/48.jpg?ver=1465083182",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/48.jpg?ver=1465083182",
+        "nowPlayingTime": "2026-03-14 21:01:22",
+        "nowPlayingDuration": 173,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1811175532?i=1811175544"
+    },
+    {
+        "nowPlayingTrackId": 323337,
+        "nowPlayingTrack": "I'm Good",
+        "nowPlayingArtist": "David Guetta and Bebe Rexha",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/323337.jpg?ver=1661493172",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/323337.jpg?ver=1661493172",
+        "nowPlayingTime": "2026-03-14 20:54:59",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1640751219?i=1640751223"
+    },
+    {
+        "nowPlayingTrackId": 11582,
+        "nowPlayingTrack": "The Edge Of Glory",
+        "nowPlayingArtist": "Lady GaGa",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/29.jpg?ver=1465083169",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/29.jpg?ver=1465083169",
+        "nowPlayingTime": "2026-03-14 20:50:42",
+        "nowPlayingDuration": 250,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/436765981?i=436765983"
+    },
+    {
+        "nowPlayingTrackId": 455725,
+        "nowPlayingTrack": "Blessings",
+        "nowPlayingArtist": "Calvin Harris, Clementine Douglas",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/455725.jpg?ver=1746818182",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/455725.jpg?ver=1746818182",
+        "nowPlayingTime": "2026-03-14 20:47:04",
+        "nowPlayingDuration": 214,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1811333156?i=1811333176"
+    },
+    {
+        "nowPlayingTrackId": 6262,
+        "nowPlayingTrack": "Jenny From The Block",
+        "nowPlayingArtist": "Jennifer Lopez",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/697.jpg?ver=1465083570",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/697.jpg?ver=1465083570",
+        "nowPlayingTime": "2026-03-14 20:44:11",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/209492873?i=209492991"
+    },
+    {
+        "nowPlayingTrackId": 466366,
+        "nowPlayingTrack": "Golden",
+        "nowPlayingArtist": "Huntr/x",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466366.jpg?ver=1754351704",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466366.jpg?ver=1754351704",
+        "nowPlayingTime": "2026-03-14 20:35:54",
+        "nowPlayingDuration": 159,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1824324832?i=1824325143"
+    },
+    {
+        "nowPlayingTrackId": 344985,
+        "nowPlayingTrack": "Whistle",
+        "nowPlayingArtist": "Jax Jones ft. Calum Scott",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/344985.jpg?ver=1676493910",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/344985.jpg?ver=1676493910",
+        "nowPlayingTime": "2026-03-14 20:32:55",
+        "nowPlayingDuration": 178,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1668106391?i=1668106394"
+    },
+    {
+        "nowPlayingTrackId": 115743,
+        "nowPlayingTrack": "Dear Jessie",
+        "nowPlayingArtist": "Rollergirl",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/115743.jpg?ver=1533144420",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/115743.jpg?ver=1533144420",
+        "nowPlayingTime": "2026-03-14 20:29:25",
+        "nowPlayingDuration": 241,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/997329584?i=997330160"
+    },
+    {
+        "nowPlayingTrackId": 390463,
+        "nowPlayingTrack": "Training Season",
+        "nowPlayingArtist": "Dua Lipa",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/390463.jpg?ver=1708039076",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/390463.jpg?ver=1708039076",
+        "nowPlayingTime": "2026-03-14 20:25:53",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1730814928?i=1730814929"
+    },
+    {
+        "nowPlayingTrackId": 436375,
+        "nowPlayingTrack": "Ordinary",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/436375.jpg?ver=1738922181",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/436375.jpg?ver=1738922181",
+        "nowPlayingTime": "2026-03-14 20:19:34",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1793663382?i=1793663645"
+    },
+    {
+        "nowPlayingTrackId": 373791,
+        "nowPlayingTrack": "Paradise",
+        "nowPlayingArtist": "Sophie and the Giants ft. Purple Disco Machine",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 20:16:18",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 111010,
+        "nowPlayingTrack": "Doctor Pressure",
+        "nowPlayingArtist": "Mylo Vs. Miami Sound Machine",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/111010.jpg?ver=1533138899",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/111010.jpg?ver=1533138899",
+        "nowPlayingTime": "2026-03-14 20:12:50",
+        "nowPlayingDuration": 240,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 471893,
+        "nowPlayingTrack": "Gone Gone Gone",
+        "nowPlayingArtist": "David Guetta ft. Teddy Swims ft. Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471893.jpg?ver=1760044756",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471893.jpg?ver=1760044756",
+        "nowPlayingTime": "2026-03-14 20:09:36",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843159672?i=1843159674"
+    },
+    {
+        "nowPlayingTrackId": 387110,
+        "nowPlayingTrack": "Whatever",
+        "nowPlayingArtist": "Kygo and Ava Max",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/387110.jpg?ver=1706329706",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/387110.jpg?ver=1706329706",
+        "nowPlayingTime": "2026-03-14 20:06:41",
+        "nowPlayingDuration": 164,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1725170940?i=1725170949"
+    },
+    {
+        "nowPlayingTrackId": 113572,
+        "nowPlayingTrack": "Solo",
+        "nowPlayingArtist": "Clean Bandit ft. Demi Lovato",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/113572.jpg?ver=1533142547",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/113572.jpg?ver=1533142547",
+        "nowPlayingTime": "2026-03-14 20:03:18",
+        "nowPlayingDuration": 194,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1380752874?i=1380753466"
+    },
+    {
+        "nowPlayingTrackId": 470477,
+        "nowPlayingTrack": "Baya",
+        "nowPlayingArtist": "BATHSHEBA, Safri Duo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470477.jpg?ver=1758649528",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470477.jpg?ver=1758649528",
+        "nowPlayingTime": "2026-03-14 20:00:24",
+        "nowPlayingDuration": 172,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1834927618?i=1834927636"
+    },
+    {
+        "nowPlayingTrackId": 347445,
+        "nowPlayingTrack": "Miracle",
+        "nowPlayingArtist": "Calvin Harris, Ellie Goulding",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/347445.jpg?ver=1678404066",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/347445.jpg?ver=1678404066",
+        "nowPlayingTime": "2026-03-14 19:53:52",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1673798696?i=1673798699"
+    },
+    {
+        "nowPlayingTrackId": 12471,
+        "nowPlayingTrack": "Troublemaker",
+        "nowPlayingArtist": "Olly Murs ft. Flo Rida",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/12471.jpg?ver=1464800082",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/12471.jpg?ver=1464800082",
+        "nowPlayingTime": "2026-03-14 19:50:45",
+        "nowPlayingDuration": 174,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/567233759?i=567234041"
+    },
+    {
+        "nowPlayingTrackId": 467240,
+        "nowPlayingTrack": "Olivia For Altid",
+        "nowPlayingArtist": "Ankerstjerne ft. Omar and Svea S",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467240.jpg?ver=1755206201",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467240.jpg?ver=1755206201",
+        "nowPlayingTime": "2026-03-14 19:47:58",
+        "nowPlayingDuration": 164,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1828464022?i=1828464023"
+    },
+    {
+        "nowPlayingTrackId": 28612,
+        "nowPlayingTrack": "I Love It",
+        "nowPlayingArtist": "Icona Pop",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/28612.jpg?ver=1488402182",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/28612.jpg?ver=1488402182",
+        "nowPlayingTime": "2026-03-14 19:45:21",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/536771837?i=536772072"
+    },
+    {
+        "nowPlayingTrackId": 472640,
+        "nowPlayingTrack": "Hello",
+        "nowPlayingArtist": "Sigala ft. Leigh-Anne ft. Jonita Gandhi",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472640.jpg?ver=1760653253",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472640.jpg?ver=1760653253",
+        "nowPlayingTime": "2026-03-14 19:37:25",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1840872870?i=1840872873"
+    },
+    {
+        "nowPlayingTrackId": 365799,
+        "nowPlayingTrack": "adore u",
+        "nowPlayingArtist": "Fred Again and Obongjayar",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/365799.jpg?ver=1691769703",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/365799.jpg?ver=1691769703",
+        "nowPlayingTime": "2026-03-14 19:34:49",
+        "nowPlayingDuration": 156,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1700707216?i=1700707219"
+    },
+    {
+        "nowPlayingTrackId": 33922,
+        "nowPlayingTrack": "What's Luv?",
+        "nowPlayingArtist": "Fat Joe ft. Ashanti",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/33922.jpg?ver=1491822182",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/33922.jpg?ver=1491822182",
+        "nowPlayingTime": "2026-03-14 19:31:12",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/268497109?i=268497629"
+    },
+    {
+        "nowPlayingTrackId": 342387,
+        "nowPlayingTrack": "Trustfall",
+        "nowPlayingArtist": "P!nk",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/342387.jpg?ver=1674831650",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/342387.jpg?ver=1674831650",
+        "nowPlayingTime": "2026-03-14 19:27:30",
+        "nowPlayingDuration": 217,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1654611802?i=1654612167"
+    },
+    {
+        "nowPlayingTrackId": 477255,
+        "nowPlayingTrack": "100 Dage",
+        "nowPlayingArtist": "Thor Farlov",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/477255.jpg?ver=1762991162",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/477255.jpg?ver=1762991162",
+        "nowPlayingTime": "2026-03-14 19:20:43",
+        "nowPlayingDuration": 153,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1847634184?i=1847634188"
+    },
+    {
+        "nowPlayingTrackId": 396113,
+        "nowPlayingTrack": "I Don't Wanna Wait",
+        "nowPlayingArtist": "David Guetta and OneRepublic",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/396113.jpg?ver=1712290965",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/396113.jpg?ver=1712290965",
+        "nowPlayingTime": "2026-03-14 19:18:14",
+        "nowPlayingDuration": 130,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1737218555?i=1737218564"
+    },
+    {
+        "nowPlayingTrackId": 2452,
+        "nowPlayingTrack": "Crying At The Discoteque",
+        "nowPlayingArtist": "Alcazar",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/2452.jpg?ver=1464811190",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/2452.jpg?ver=1464811190",
+        "nowPlayingTime": "2026-03-14 19:14:20",
+        "nowPlayingDuration": 223,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/578034253?i=578034463"
+    },
+    {
+        "nowPlayingTrackId": 476685,
+        "nowPlayingTrack": "Breakup Glow",
+        "nowPlayingArtist": "Saint clara",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/476685.jpg?ver=1762474190",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/476685.jpg?ver=1762474190",
+        "nowPlayingTime": "2026-03-14 19:11:39",
+        "nowPlayingDuration": 161,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1845301396?i=1845301399"
+    },
+    {
+        "nowPlayingTrackId": 308127,
+        "nowPlayingTrack": "Words",
+        "nowPlayingArtist": "Alesso ft. Zara Larsson",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/308127.jpg?ver=1650804509",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/308127.jpg?ver=1650804509",
+        "nowPlayingTime": "2026-03-14 19:09:18",
+        "nowPlayingDuration": 137,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1619033003?i=1619033006"
+    },
+    {
+        "nowPlayingTrackId": 12255,
+        "nowPlayingTrack": "Till The World Ends",
+        "nowPlayingArtist": "Britney Spears",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/1054.jpg?ver=1465083769",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/1054.jpg?ver=1465083769",
+        "nowPlayingTime": "2026-03-14 19:05:22",
+        "nowPlayingDuration": 227,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/581774791?i=581774806"
+    },
+    {
+        "nowPlayingTrackId": 467857,
+        "nowPlayingTrack": "Gabriela",
+        "nowPlayingArtist": "Katseye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467857.jpg?ver=1755811591",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467857.jpg?ver=1755811591",
+        "nowPlayingTime": "2026-03-14 19:02:11",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833229057?i=1833229061"
+    },
+    {
+        "nowPlayingTrackId": 40924,
+        "nowPlayingTrack": "Ode To The Bouncer",
+        "nowPlayingArtist": "Studio Killers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/40924.jpg?ver=1502820181",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/40924.jpg?ver=1502820181",
+        "nowPlayingTime": "2026-03-14 18:54:57",
+        "nowPlayingDuration": 240,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/484471588?i=484471669"
+    },
+    {
+        "nowPlayingTrackId": 196371,
+        "nowPlayingTrack": "Head & Heart",
+        "nowPlayingArtist": "Joel Corry and MNEK",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/196371.jpg?ver=1593759102",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/196371.jpg?ver=1593759102",
+        "nowPlayingTime": "2026-03-14 18:52:09",
+        "nowPlayingDuration": 161,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1518804164?i=1518804165"
+    },
+    {
+        "nowPlayingTrackId": 13639,
+        "nowPlayingTrack": "World Hold On",
+        "nowPlayingArtist": "Bob Sinclar",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/13639.jpg?ver=1464803315",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/13639.jpg?ver=1464803315",
+        "nowPlayingTime": "2026-03-14 18:48:49",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/141126869?i=141126961"
+    },
+    {
+        "nowPlayingTrackId": 388485,
+        "nowPlayingTrack": "Stumblin' In",
+        "nowPlayingArtist": "CYRIL",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388485.jpg?ver=1706687580",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388485.jpg?ver=1706687580",
+        "nowPlayingTime": "2026-03-14 18:45:40",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1716033381?i=1716033386"
+    },
+    {
+        "nowPlayingTrackId": 123769,
+        "nowPlayingTrack": "Run It!",
+        "nowPlayingArtist": "Chris Brown ft. Juelz Santana",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/123769.jpg?ver=1542825903",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/123769.jpg?ver=1542825903",
+        "nowPlayingTime": "2026-03-14 18:42:28",
+        "nowPlayingDuration": 197,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/298582432?i=298582600"
+    },
+    {
+        "nowPlayingTrackId": 468804,
+        "nowPlayingTrack": "The Dead Dance",
+        "nowPlayingArtist": "Lady GaGa",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/29.jpg?ver=1465083169",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/29.jpg?ver=1465083169",
+        "nowPlayingTime": "2026-03-14 18:33:47",
+        "nowPlayingDuration": 218,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837298856?i=1837298858"
+    },
+    {
+        "nowPlayingTrackId": 308664,
+        "nowPlayingTrack": "21 Reasons",
+        "nowPlayingArtist": "Nathan Dawe ft. Ella Henderson",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/308664.jpg?ver=1651226666",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/308664.jpg?ver=1651226666",
+        "nowPlayingTime": "2026-03-14 18:31:14",
+        "nowPlayingDuration": 148,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1616716411?i=1616716414"
+    },
+    {
+        "nowPlayingTrackId": 135274,
+        "nowPlayingTrack": "Burhan G",
+        "nowPlayingArtist": "Burhan G",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/135274.jpg?ver=1551683843",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/135274.jpg?ver=1551683843",
+        "nowPlayingTime": "2026-03-14 18:27:48",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/434928692?i=434928770"
+    },
+    {
+        "nowPlayingTrackId": 440841,
+        "nowPlayingTrack": "Azizam",
+        "nowPlayingArtist": "Ed Sheeran",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/48.jpg?ver=1465083182",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/48.jpg?ver=1465083182",
+        "nowPlayingTime": "2026-03-14 18:25:06",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1803412491?i=1803412611"
+    },
+    {
+        "nowPlayingTrackId": 467176,
+        "nowPlayingTrack": "Ingen Yin Uden Yang",
+        "nowPlayingArtist": "Tobias Rahim ft. Mille",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467176.jpg?ver=1755168934",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467176.jpg?ver=1755168934",
+        "nowPlayingTime": "2026-03-14 18:18:55",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1826720457?i=1826720460"
+    },
+    {
+        "nowPlayingTrackId": 243533,
+        "nowPlayingTrack": "Your Love",
+        "nowPlayingArtist": "ATB ft. TOPIC ft. A7S",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/243533.jpg?ver=1616232587",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/243533.jpg?ver=1616232587",
+        "nowPlayingTime": "2026-03-14 18:16:32",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1535122701?i=1535123295"
+    },
+    {
+        "nowPlayingTrackId": 115103,
+        "nowPlayingTrack": "Stereo Love",
+        "nowPlayingArtist": "Edward Maya ft. Vika Jigulina",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/115103.jpg?ver=1533146412",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/115103.jpg?ver=1533146412",
+        "nowPlayingTime": "2026-03-14 18:13:27",
+        "nowPlayingDuration": 185,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/351996342?i=351996346"
+    },
+    {
+        "nowPlayingTrackId": 466366,
+        "nowPlayingTrack": "Golden",
+        "nowPlayingArtist": "Huntr/x",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466366.jpg?ver=1754351704",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466366.jpg?ver=1754351704",
+        "nowPlayingTime": "2026-03-14 18:10:18",
+        "nowPlayingDuration": 159,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1824324832?i=1824325143"
+    },
+    {
+        "nowPlayingTrackId": 340664,
+        "nowPlayingTrack": "Work With My Love",
+        "nowPlayingArtist": "Alok and James Arthur",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/340664.jpg?ver=1673613540",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/340664.jpg?ver=1673613540",
+        "nowPlayingTime": "2026-03-14 18:07:51",
+        "nowPlayingDuration": 139,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1661307998?i=1661307999"
+    },
+    {
+        "nowPlayingTrackId": 37502,
+        "nowPlayingTrack": "Came Here For Love",
+        "nowPlayingArtist": "Sigala and Ella Eyre",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/37502.jpg?ver=1533138065",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/37502.jpg?ver=1533138065",
+        "nowPlayingTime": "2026-03-14 18:04:31",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1241328121?i=1241328655"
+    },
+    {
+        "nowPlayingTrackId": 470866,
+        "nowPlayingTrack": "Where Is My Husband!",
+        "nowPlayingArtist": "Raye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470866.jpg?ver=1759048685",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470866.jpg?ver=1759048685",
+        "nowPlayingTime": "2026-03-14 18:01:21",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1838737596?i=1838737598"
+    },
+    {
+        "nowPlayingTrackId": 324881,
+        "nowPlayingTrack": "Calm Down",
+        "nowPlayingArtist": "Rema and Selena Gomez",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/324881.jpg?ver=1662481862",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/324881.jpg?ver=1662481862",
+        "nowPlayingTime": "2026-03-14 17:53:48",
+        "nowPlayingDuration": 228,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1640501237?i=1640501238"
+    },
+    {
+        "nowPlayingTrackId": 482654,
+        "nowPlayingTrack": "En Anden Planet",
+        "nowPlayingArtist": "Ida Laurberg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482654.jpg?ver=1767736969",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482654.jpg?ver=1767736969",
+        "nowPlayingTime": "2026-03-14 17:50:47",
+        "nowPlayingDuration": 181,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1842347378?i=1842347379"
+    },
+    {
+        "nowPlayingTrackId": 21896,
+        "nowPlayingTrack": "Let Me Love You",
+        "nowPlayingArtist": "Dj Snake ft. Justin Bieber",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/21896.jpg?ver=1485659311",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/21896.jpg?ver=1485659311",
+        "nowPlayingTime": "2026-03-14 17:46:56",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1130536966?i=1130537444"
+    },
+    {
+        "nowPlayingTrackId": 418118,
+        "nowPlayingTrack": "Tænker Ik På Andre",
+        "nowPlayingArtist": "Suspekt ft. URO",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/418118.jpg?ver=1725572651",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/418118.jpg?ver=1725572651",
+        "nowPlayingTime": "2026-03-14 17:43:35",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1765078984?i=1765078991"
+    },
+    {
+        "nowPlayingTrackId": 472860,
+        "nowPlayingTrack": "Changes",
+        "nowPlayingArtist": "Charlie Puth",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472860.jpg?ver=1760822779",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472860.jpg?ver=1760822779",
+        "nowPlayingTime": "2026-03-14 17:34:50",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1845189970?i=1845189972"
+    },
+    {
+        "nowPlayingTrackId": 489833,
+        "nowPlayingTrack": "American Girls",
+        "nowPlayingArtist": "Harry Styles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489833.jpg?ver=1772756229",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489833.jpg?ver=1772756229",
+        "nowPlayingTime": "2026-03-14 17:31:49",
+        "nowPlayingDuration": 176,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1870984032?i=1870984036"
+    },
+    {
+        "nowPlayingTrackId": 2258,
+        "nowPlayingTrack": "Complicated",
+        "nowPlayingArtist": "Avril Lavigne",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/1196.jpg?ver=1465083842",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/1196.jpg?ver=1465083842",
+        "nowPlayingTime": "2026-03-14 17:27:45",
+        "nowPlayingDuration": 233,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/268632121?i=268632144"
+    },
+    {
+        "nowPlayingTrackId": 469919,
+        "nowPlayingTrack": "While I Wait",
+        "nowPlayingArtist": "Calby",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469919.jpg?ver=1758061030",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469919.jpg?ver=1758061030",
+        "nowPlayingTime": "2026-03-14 17:24:00",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1831817043?i=1831817044"
+    },
+    {
+        "nowPlayingTrackId": 446274,
+        "nowPlayingTrack": "Priceless",
+        "nowPlayingArtist": "Maroon 5 ft. Lisa",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/446274.jpg?ver=1746311576",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/446274.jpg?ver=1746311576",
+        "nowPlayingTime": "2026-03-14 17:16:58",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1810385824?i=1810385825"
+    },
+    {
+        "nowPlayingTrackId": 8981,
+        "nowPlayingTrack": "Pompeii",
+        "nowPlayingArtist": "Bastille",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/559.jpg?ver=1465083485",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/559.jpg?ver=1465083485",
+        "nowPlayingTime": "2026-03-14 17:13:25",
+        "nowPlayingDuration": 201,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/715531101?i=715531601"
+    },
+    {
+        "nowPlayingTrackId": 469802,
+        "nowPlayingTrack": "Talk To Me",
+        "nowPlayingArtist": "Damiano David, Tyla, Nile Rodgers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469802.jpg?ver=1757888215",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469802.jpg?ver=1757888215",
+        "nowPlayingTime": "2026-03-14 17:09:54",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 469911,
+        "nowPlayingTrack": "Fire Uger",
+        "nowPlayingArtist": "Mumle",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469911.jpg?ver=1758059707",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469911.jpg?ver=1758059707",
+        "nowPlayingTime": "2026-03-14 17:06:31",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1835404293?i=1835404295"
+    },
+    {
+        "nowPlayingTrackId": 461001,
+        "nowPlayingTrack": "Manchild",
+        "nowPlayingArtist": "Sabrina Carpenter",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/461001.jpg?ver=1749190949",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/461001.jpg?ver=1749190949",
+        "nowPlayingTime": "2026-03-14 17:01:55",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1818103444?i=1818103445"
+    },
+    {
+        "nowPlayingTrackId": 114586,
+        "nowPlayingTrack": "Turn The Lights Off",
+        "nowPlayingArtist": "Kato ft. Jon",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/114586.jpg?ver=1533155817",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/114586.jpg?ver=1533155817",
+        "nowPlayingTime": "2026-03-14 16:54:42",
+        "nowPlayingDuration": 176,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/348594096?i=348594112"
+    },
+    {
+        "nowPlayingTrackId": 470654,
+        "nowPlayingTrack": "Stay",
+        "nowPlayingArtist": "Myles Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470654.jpg?ver=1758841783",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470654.jpg?ver=1758841783",
+        "nowPlayingTime": "2026-03-14 16:51:38",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837714947?i=1837714951"
+    },
+    {
+        "nowPlayingTrackId": 114558,
+        "nowPlayingTrack": "Prayer In C",
+        "nowPlayingArtist": "Robin Schulz, Lilly Wood, The Prick",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/114558.jpg?ver=1533145951",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/114558.jpg?ver=1533145951",
+        "nowPlayingTime": "2026-03-14 16:48:31",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/868190316?i=868190323"
+    },
+    {
+        "nowPlayingTrackId": 401900,
+        "nowPlayingTrack": "Birds Of A Feather",
+        "nowPlayingArtist": "Billie Eilish",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 16:45:04",
+        "nowPlayingDuration": 197,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 163134,
+        "nowPlayingTrack": "Blinding Lights",
+        "nowPlayingArtist": "The Weeknd",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/163134.jpg?ver=1575016138",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/163134.jpg?ver=1575016138",
+        "nowPlayingTime": "2026-03-14 16:41:57",
+        "nowPlayingDuration": 195,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1488408555?i=1488408568"
+    },
+    {
+        "nowPlayingTrackId": 1242,
+        "nowPlayingTrack": "Big Girls Don't Cry",
+        "nowPlayingArtist": "Fergie",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/1242.jpg?ver=1464809662",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/1242.jpg?ver=1464809662",
+        "nowPlayingTime": "2026-03-14 16:32:13",
+        "nowPlayingDuration": 252,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/258442286?i=258442288"
+    },
+    {
+        "nowPlayingTrackId": 490507,
+        "nowPlayingTrack": "Ham Med Guitaren",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 16:28:56",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 331673,
+        "nowPlayingTrack": "10:35",
+        "nowPlayingArtist": "Tiësto and Tate McRae",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/331673.jpg?ver=1667523515",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/331673.jpg?ver=1667523515",
+        "nowPlayingTime": "2026-03-14 16:24:32",
+        "nowPlayingDuration": 167,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 471893,
+        "nowPlayingTrack": "Gone Gone Gone",
+        "nowPlayingArtist": "David Guetta ft. Teddy Swims ft. Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471893.jpg?ver=1760044756",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471893.jpg?ver=1760044756",
+        "nowPlayingTime": "2026-03-14 16:16:44",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843159672?i=1843159674"
+    },
+    {
+        "nowPlayingTrackId": 10831,
+        "nowPlayingTrack": "Stitches",
+        "nowPlayingArtist": "Shawn Mendes",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/10831.jpg?ver=1533138054",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/10831.jpg?ver=1533138054",
+        "nowPlayingTime": "2026-03-14 16:13:22",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1058411662?i=1058412621"
+    },
+    {
+        "nowPlayingTrackId": 489172,
+        "nowPlayingTrack": "Fever Dream",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489172.jpg?ver=1772153474",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489172.jpg?ver=1772153474",
+        "nowPlayingTime": "2026-03-14 16:10:39",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1804419951?i=1804420167"
+    },
+    {
+        "nowPlayingTrackId": 467598,
+        "nowPlayingTrack": "Man I Need",
+        "nowPlayingArtist": "Olivia Dean",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467598.jpg?ver=1755444758",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467598.jpg?ver=1755444758",
+        "nowPlayingTime": "2026-03-14 16:07:42",
+        "nowPlayingDuration": 181,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1817609404?i=1817609509"
+    },
+    {
+        "nowPlayingTrackId": 440845,
+        "nowPlayingTrack": "End Of The World",
+        "nowPlayingArtist": "Miley Cyrus",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/440845.jpg?ver=1743734279",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/440845.jpg?ver=1743734279",
+        "nowPlayingTime": "2026-03-14 16:02:35",
+        "nowPlayingDuration": 178,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1804974240?i=1804974563"
+    },
+    {
+        "nowPlayingTrackId": 1571,
+        "nowPlayingTrack": "Break Your Heart",
+        "nowPlayingArtist": "Taio Cruz",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/474.jpg?ver=1465083438",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/474.jpg?ver=1465083438",
+        "nowPlayingTime": "2026-03-14 15:54:43",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/365697229?i=365697271"
+    },
+    {
+        "nowPlayingTrackId": 19026,
+        "nowPlayingTrack": "The Way I Are",
+        "nowPlayingArtist": "Timbaland ft. Keri Hilson and DOE",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/19026.jpg?ver=1466197386",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/19026.jpg?ver=1466197386",
+        "nowPlayingTime": "2026-03-14 15:51:43",
+        "nowPlayingDuration": 209,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/219763483?i=219763510"
+    },
+    {
+        "nowPlayingTrackId": 488394,
+        "nowPlayingTrack": "Før Vi Går Hjem",
+        "nowPlayingArtist": "Søren Torpegaard Lund",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/488394.jpg?ver=1771506157",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/488394.jpg?ver=1771506157",
+        "nowPlayingTime": "2026-03-14 15:48:51",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1660255833?i=1660255841"
+    },
+    {
+        "nowPlayingTrackId": 123116,
+        "nowPlayingTrack": "Empire State Of Mind",
+        "nowPlayingArtist": "Alicia Keys ft. Jay-Z",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/123116.jpg?ver=1541594978",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/123116.jpg?ver=1541594978",
+        "nowPlayingTime": "2026-03-14 15:42:54",
+        "nowPlayingDuration": 274,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/400667042?i=400667139"
+    },
+    {
+        "nowPlayingTrackId": 275464,
+        "nowPlayingTrack": "Where Are You Now",
+        "nowPlayingArtist": "Lost Frequencies ft. Calum Scott",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/275464.jpg?ver=1628933360",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/275464.jpg?ver=1628933360",
+        "nowPlayingTime": "2026-03-14 15:40:24",
+        "nowPlayingDuration": 139,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1576395044?i=1576395046"
+    },
+    {
+        "nowPlayingTrackId": 489182,
+        "nowPlayingTrack": "Flue i et spind",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489182.jpg?ver=1772158395",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489182.jpg?ver=1772158395",
+        "nowPlayingTime": "2026-03-14 15:31:28",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1875110038?i=1875110039"
+    },
+    {
+        "nowPlayingTrackId": 3143,
+        "nowPlayingTrack": "Drive By",
+        "nowPlayingArtist": "Train",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/835.jpg?ver=1465083638",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/835.jpg?ver=1465083638",
+        "nowPlayingTime": "2026-03-14 15:28:16",
+        "nowPlayingDuration": 186,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/490730973?i=490730987"
+    },
+    {
+        "nowPlayingTrackId": 392501,
+        "nowPlayingTrack": "End Of Beginning",
+        "nowPlayingArtist": "Djo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/392501.jpg?ver=1709484571",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/392501.jpg?ver=1709484571",
+        "nowPlayingTime": "2026-03-14 15:24:24",
+        "nowPlayingDuration": 157,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1632447652?i=1632448108"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-14 15:21:17",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 12528,
+        "nowPlayingTrack": "Turn Me On",
+        "nowPlayingArtist": "Kevin Lyttle",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/12528.jpg?ver=1464806069",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/12528.jpg?ver=1464806069",
+        "nowPlayingTime": "2026-03-14 15:13:45",
+        "nowPlayingDuration": 173,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/6337741?i=6337732"
+    },
+    {
+        "nowPlayingTrackId": 472646,
+        "nowPlayingTrack": "Copenhagen City",
+        "nowPlayingArtist": "Emil Kruse ft. OK OK and Anthon Edwards",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472646.jpg?ver=1760651632",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472646.jpg?ver=1760651632",
+        "nowPlayingTime": "2026-03-14 15:10:33",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843160119?i=1843160129"
+    },
+    {
+        "nowPlayingTrackId": 471173,
+        "nowPlayingTrack": "The Fate Of Ophelia",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471173.jpg?ver=1759465087",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471173.jpg?ver=1759465087",
+        "nowPlayingTime": "2026-03-14 15:06:57",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833328839?i=1833328840"
+    },
+    {
+        "nowPlayingTrackId": 421924,
+        "nowPlayingTrack": "Carry You Home",
+        "nowPlayingArtist": "Alex Warren ft. Ella Henderson",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/421924.jpg?ver=1726266994",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/421924.jpg?ver=1726266994",
+        "nowPlayingTime": "2026-03-14 15:04:11",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1745673597?i=1745673617"
+    },
+    {
+        "nowPlayingTrackId": 355803,
+        "nowPlayingTrack": "Unhealthy",
+        "nowPlayingArtist": "Anne-Marie ft. Shania Twain",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/355803.jpg?ver=1684459141",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/355803.jpg?ver=1684459141",
+        "nowPlayingTime": "2026-03-14 15:00:29",
+        "nowPlayingDuration": 145,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1683856160?i=1683856166"
+    },
+    {
+        "nowPlayingTrackId": 497,
+        "nowPlayingTrack": "All Of Me",
+        "nowPlayingArtist": "John Legend",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/497.jpg?ver=1464809010",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/497.jpg?ver=1464809010",
+        "nowPlayingTime": "2026-03-14 14:51:12",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/679297685?i=679297849"
+    },
+    {
+        "nowPlayingTrackId": 460802,
+        "nowPlayingTrack": "Kogeplade",
+        "nowPlayingArtist": "Katinka",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/460802.jpg?ver=1748985884",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/460802.jpg?ver=1748985884",
+        "nowPlayingTime": "2026-03-14 14:45:29",
+        "nowPlayingDuration": 155,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1810186647?i=1810186648"
+    },
+    {
+        "nowPlayingTrackId": 460978,
+        "nowPlayingTrack": "Sapphire",
+        "nowPlayingArtist": "Ed Sheeran",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/48.jpg?ver=1465083182",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/48.jpg?ver=1465083182",
+        "nowPlayingTime": "2026-03-14 14:40:16",
+        "nowPlayingDuration": 173,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1811175532?i=1811175544"
+    },
+    {
+        "nowPlayingTrackId": 12180,
+        "nowPlayingTrack": "This Love",
+        "nowPlayingArtist": "Maroon 5",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/77.jpg?ver=1465083197",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/77.jpg?ver=1465083197",
+        "nowPlayingTime": "2026-03-14 14:28:40",
+        "nowPlayingDuration": 195,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/900265334?i=900265354"
+    },
+    {
+        "nowPlayingTrackId": 482912,
+        "nowPlayingTrack": "I Just Might",
+        "nowPlayingArtist": "Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482912.jpg?ver=1767939696",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482912.jpg?ver=1767939696",
+        "nowPlayingTime": "2026-03-14 14:21:46",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1866732792?i=1866732800"
+    },
+    {
+        "nowPlayingTrackId": 401557,
+        "nowPlayingTrack": "Elsker Dig Så Meget",
+        "nowPlayingArtist": "Blæst",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 14:14:36",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 489293,
+        "nowPlayingTrack": "Prøveperiode",
+        "nowPlayingArtist": "Ella Augusta",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489293.jpg?ver=1772237566",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489293.jpg?ver=1772237566",
+        "nowPlayingTime": "2026-03-14 14:11:53",
+        "nowPlayingDuration": 160,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1872775534?i=1872775537"
+    },
+    {
+        "nowPlayingTrackId": 34842,
+        "nowPlayingTrack": "Raise Your Glass",
+        "nowPlayingArtist": "P!nk",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/34842.jpg?ver=1493326981",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/34842.jpg?ver=1493326981",
+        "nowPlayingTime": "2026-03-14 14:05:25",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/399792343?i=399792383"
+    },
+    {
+        "nowPlayingTrackId": 482903,
+        "nowPlayingTrack": "Jeg Tror Jeg Elsker Dig For Evigt",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482903.jpg?ver=1767927871",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482903.jpg?ver=1767927871",
+        "nowPlayingTime": "2026-03-14 13:59:03",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859547515?i=1859547516"
+    },
+    {
+        "nowPlayingTrackId": 6770,
+        "nowPlayingTrack": "Let Me Love You",
+        "nowPlayingArtist": "Mario",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/6770.jpg?ver=1464800997",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/6770.jpg?ver=1464800997",
+        "nowPlayingTime": "2026-03-14 13:50:29",
+        "nowPlayingDuration": 173,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/257612989?i=257613012"
+    },
+    {
+        "nowPlayingTrackId": 469970,
+        "nowPlayingTrack": "Sandheden",
+        "nowPlayingArtist": "Rasmus Seebach and Artigeardit",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469970.jpg?ver=1758252206",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469970.jpg?ver=1758252206",
+        "nowPlayingTime": "2026-03-14 13:44:43",
+        "nowPlayingDuration": 160,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837933930?i=1837933940"
+    },
+    {
+        "nowPlayingTrackId": 7404,
+        "nowPlayingTrack": "Lush Life",
+        "nowPlayingArtist": "Zara Larsson",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/7404.jpg?ver=1533138049",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/7404.jpg?ver=1533138049",
+        "nowPlayingTime": "2026-03-14 13:37:42",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1099324364?i=1099324371"
+    },
+    {
+        "nowPlayingTrackId": 106471,
+        "nowPlayingTrack": "Vi To",
+        "nowPlayingArtist": "Medina",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 13:25:07",
+        "nowPlayingDuration": 233,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/578420867?i=578420936"
+    },
+    {
+        "nowPlayingTrackId": 482873,
+        "nowPlayingTrack": "drømmefanger",
+        "nowPlayingArtist": "Mille ft. URO",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482873.jpg?ver=1767916284",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482873.jpg?ver=1767916284",
+        "nowPlayingTime": "2026-03-14 13:19:41",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859969180?i=1859969181"
+    },
+    {
+        "nowPlayingTrackId": 484894,
+        "nowPlayingTrack": "Aperture",
+        "nowPlayingArtist": "Harry Styles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/484894.jpg?ver=1769127517",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/484894.jpg?ver=1769127517",
+        "nowPlayingTime": "2026-03-14 13:12:03",
+        "nowPlayingDuration": 203,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1870984032?i=1870984033"
+    },
+    {
+        "nowPlayingTrackId": 2285,
+        "nowPlayingTrack": "Cool Kids",
+        "nowPlayingArtist": "Echosmith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/2285.jpg?ver=1464804431",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/2285.jpg?ver=1464804431",
+        "nowPlayingTime": "2026-03-14 13:05:30",
+        "nowPlayingDuration": 205,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/924487443?i=924487455"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-14 12:59:47",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 1851,
+        "nowPlayingTrack": "Can't Fight The Moonlight",
+        "nowPlayingArtist": "LeAnn Rimes",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/1851.jpg?ver=1468233165",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/1851.jpg?ver=1468233165",
+        "nowPlayingTime": "2026-03-14 12:51:48",
+        "nowPlayingDuration": 203,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/136956891?i=136956893"
+    },
+    {
+        "nowPlayingTrackId": 490507,
+        "nowPlayingTrack": "Ham Med Guitaren",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 12:45:04",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 442361,
+        "nowPlayingTrack": "You You You",
+        "nowPlayingArtist": "Lukas Graham",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/442361.jpg?ver=1744932806",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/442361.jpg?ver=1744932806",
+        "nowPlayingTime": "2026-03-14 12:38:57",
+        "nowPlayingDuration": 161,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1565469251?i=1565469252"
+    },
+    {
+        "nowPlayingTrackId": 29689,
+        "nowPlayingTrack": "Hurtful",
+        "nowPlayingArtist": "Erik Hassle",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/29689.jpg?ver=1491790208",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/29689.jpg?ver=1491790208",
+        "nowPlayingTime": "2026-03-14 12:27:26",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/333628862?i=333629331"
+    },
+    {
+        "nowPlayingTrackId": 489182,
+        "nowPlayingTrack": "Flue i et spind",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489182.jpg?ver=1772158395",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489182.jpg?ver=1772158395",
+        "nowPlayingTime": "2026-03-14 12:20:51",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1875110038?i=1875110039"
+    },
+    {
+        "nowPlayingTrackId": 488003,
+        "nowPlayingTrack": "Begge To",
+        "nowPlayingArtist": "Gobs",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/488003.jpg?ver=1771111522",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/488003.jpg?ver=1771111522",
+        "nowPlayingTime": "2026-03-14 12:13:24",
+        "nowPlayingDuration": 183,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1722559643?i=1722559950"
+    },
+    {
+        "nowPlayingTrackId": 6490,
+        "nowPlayingTrack": "King",
+        "nowPlayingArtist": "Years and Years",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/6490.jpg?ver=1464801035",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/6490.jpg?ver=1464801035",
+        "nowPlayingTime": "2026-03-14 12:06:40",
+        "nowPlayingDuration": 203,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/952680277?i=952680279"
+    },
+    {
+        "nowPlayingTrackId": 471971,
+        "nowPlayingTrack": "Opalite",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471971.jpg?ver=1760110846",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471971.jpg?ver=1760110846",
+        "nowPlayingTime": "2026-03-14 11:59:55",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843998665?i=1843998672"
+    },
+    {
+        "nowPlayingTrackId": 466366,
+        "nowPlayingTrack": "Golden",
+        "nowPlayingArtist": "Huntr/x",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466366.jpg?ver=1754351704",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466366.jpg?ver=1754351704",
+        "nowPlayingTime": "2026-03-14 11:52:26",
+        "nowPlayingDuration": 159,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1824324832?i=1824325143"
+    },
+    {
+        "nowPlayingTrackId": 466190,
+        "nowPlayingTrack": "12 to 12",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466190.jpg?ver=1754213302",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466190.jpg?ver=1754213302",
+        "nowPlayingTime": "2026-03-14 11:48:41",
+        "nowPlayingDuration": 228,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1828036634?i=1828036635"
+    },
+    {
+        "nowPlayingTrackId": 10756,
+        "nowPlayingTrack": "Stay",
+        "nowPlayingArtist": "Rihanna ft. Mikky Ekko",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/10756.jpg?ver=1464807369",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/10756.jpg?ver=1464807369",
+        "nowPlayingTime": "2026-03-14 11:43:07",
+        "nowPlayingDuration": 110,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/577347018?i=577347027"
+    },
+    {
+        "nowPlayingTrackId": 398571,
+        "nowPlayingTrack": "A Bar Song",
+        "nowPlayingArtist": "Shaboozey",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/398571.jpg?ver=1714152817",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/398571.jpg?ver=1714152817",
+        "nowPlayingTime": "2026-03-14 11:40:27",
+        "nowPlayingDuration": 170,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1737085577?i=1737085899"
+    },
+    {
+        "nowPlayingTrackId": 472860,
+        "nowPlayingTrack": "Changes",
+        "nowPlayingArtist": "Charlie Puth",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472860.jpg?ver=1760822779",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472860.jpg?ver=1760822779",
+        "nowPlayingTime": "2026-03-14 11:31:53",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1845189970?i=1845189972"
+    },
+    {
+        "nowPlayingTrackId": 7643,
+        "nowPlayingTrack": "Mercy",
+        "nowPlayingArtist": "Duffy",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/224.jpg?ver=1465083291",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/224.jpg?ver=1465083291",
+        "nowPlayingTime": "2026-03-14 11:28:28",
+        "nowPlayingDuration": 199,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/273023518?i=273023519"
+    },
+    {
+        "nowPlayingTrackId": 488393,
+        "nowPlayingTrack": "Louisiana",
+        "nowPlayingArtist": "Sofie1998",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 11:24:40",
+        "nowPlayingDuration": 205,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 441598,
+        "nowPlayingTrack": "Yellow Bike",
+        "nowPlayingArtist": "Jonah Blacksmith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/441598.jpg?ver=1744364970",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/441598.jpg?ver=1744364970",
+        "nowPlayingTime": "2026-03-14 11:21:06",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1803151208?i=1803151790"
+    },
+    {
+        "nowPlayingTrackId": 469919,
+        "nowPlayingTrack": "While I Wait",
+        "nowPlayingArtist": "Calby",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469919.jpg?ver=1758061030",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469919.jpg?ver=1758061030",
+        "nowPlayingTime": "2026-03-14 11:13:38",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1831817043?i=1831817044"
+    },
+    {
+        "nowPlayingTrackId": 9444,
+        "nowPlayingTrack": "Riptide",
+        "nowPlayingArtist": "Vance Joy",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/2920.jpg?ver=1465084491",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/2920.jpg?ver=1465084491",
+        "nowPlayingTime": "2026-03-14 11:10:29",
+        "nowPlayingDuration": 194,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/647013716?i=647013719"
+    },
+    {
+        "nowPlayingTrackId": 482637,
+        "nowPlayingTrack": "If u kno u kno",
+        "nowPlayingArtist": "KEDDE ft. Karoline Mousing",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482637.jpg?ver=1767719196",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482637.jpg?ver=1767719196",
+        "nowPlayingTime": "2026-03-14 11:07:16",
+        "nowPlayingDuration": 139,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859380538?i=1859380539"
+    },
+    {
+        "nowPlayingTrackId": 482912,
+        "nowPlayingTrack": "I Just Might",
+        "nowPlayingArtist": "Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482912.jpg?ver=1767939696",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482912.jpg?ver=1767939696",
+        "nowPlayingTime": "2026-03-14 11:03:46",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1866732792?i=1866732800"
+    },
+    {
+        "nowPlayingTrackId": 203849,
+        "nowPlayingTrack": "Mood",
+        "nowPlayingArtist": "24kGoldn ft. Iann Dior",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/203849.jpg?ver=1597907585",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/203849.jpg?ver=1597907585",
+        "nowPlayingTime": "2026-03-14 11:01:13",
+        "nowPlayingDuration": 128,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1522994918?i=1522994920"
+    },
+    {
+        "nowPlayingTrackId": 143713,
+        "nowPlayingTrack": "I Don't Care",
+        "nowPlayingArtist": "Ed Sheeran and Justin Bieber",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/143713.jpg?ver=1557458742",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/143713.jpg?ver=1557458742",
+        "nowPlayingTime": "2026-03-14 10:52:49",
+        "nowPlayingDuration": 215,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1462426785?i=1462426786"
+    },
+    {
+        "nowPlayingTrackId": 469802,
+        "nowPlayingTrack": "Talk To Me",
+        "nowPlayingArtist": "Damiano David, Tyla, Nile Rodgers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469802.jpg?ver=1757888215",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469802.jpg?ver=1757888215",
+        "nowPlayingTime": "2026-03-14 10:49:35",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 13219,
+        "nowPlayingTrack": "When Love Takes Over",
+        "nowPlayingArtist": "David Guetta ft. Kelly Rowland",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/13219.jpg?ver=1464808206",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/13219.jpg?ver=1464808206",
+        "nowPlayingTime": "2026-03-14 10:45:45",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/699641742?i=699642072"
+    },
+    {
+        "nowPlayingTrackId": 469931,
+        "nowPlayingTrack": "Elsker Når Du Smiler",
+        "nowPlayingArtist": "Tobias Rahim",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469931.jpg?ver=1758283844",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469931.jpg?ver=1758283844",
+        "nowPlayingTime": "2026-03-14 10:42:08",
+        "nowPlayingDuration": 216,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837411472?i=1837411475"
+    },
+    {
+        "nowPlayingTrackId": 482903,
+        "nowPlayingTrack": "Jeg Tror Jeg Elsker Dig For Evigt",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482903.jpg?ver=1767927871",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482903.jpg?ver=1767927871",
+        "nowPlayingTime": "2026-03-14 10:33:14",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859547515?i=1859547516"
+    },
+    {
+        "nowPlayingTrackId": 11341,
+        "nowPlayingTrack": "Teenage Dream",
+        "nowPlayingArtist": "Katy Perry",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/40.jpg?ver=1465083174",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/40.jpg?ver=1465083174",
+        "nowPlayingTime": "2026-03-14 10:29:06",
+        "nowPlayingDuration": 219,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/716084282?i=716085504"
+    },
+    {
+        "nowPlayingTrackId": 484156,
+        "nowPlayingTrack": "Silent Treatment",
+        "nowPlayingArtist": "Freya Skye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/484156.jpg?ver=1768710998",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/484156.jpg?ver=1768710998",
+        "nowPlayingTime": "2026-03-14 10:26:44",
+        "nowPlayingDuration": 141,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1852132455?i=1852132457"
+    },
+    {
+        "nowPlayingTrackId": 196371,
+        "nowPlayingTrack": "Head & Heart",
+        "nowPlayingArtist": "Joel Corry and MNEK",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/196371.jpg?ver=1593759102",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/196371.jpg?ver=1593759102",
+        "nowPlayingTime": "2026-03-14 10:23:20",
+        "nowPlayingDuration": 161,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1518804164?i=1518804165"
+    },
+    {
+        "nowPlayingTrackId": 467857,
+        "nowPlayingTrack": "Gabriela",
+        "nowPlayingArtist": "Katseye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467857.jpg?ver=1755811591",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467857.jpg?ver=1755811591",
+        "nowPlayingTime": "2026-03-14 10:15:33",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833229057?i=1833229061"
+    },
+    {
+        "nowPlayingTrackId": 84043,
+        "nowPlayingTrack": "Skin",
+        "nowPlayingArtist": "Rag'n'Bone Man",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/84043.jpg?ver=1533144420",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/84043.jpg?ver=1533144420",
+        "nowPlayingTime": "2026-03-14 10:12:22",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1173599790?i=1173600613"
+    },
+    {
+        "nowPlayingTrackId": 489832,
+        "nowPlayingTrack": "Gosh I Luv It !!!",
+        "nowPlayingArtist": "Saint clara",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489832.jpg?ver=1772752928",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489832.jpg?ver=1772752928",
+        "nowPlayingTime": "2026-03-14 10:08:10",
+        "nowPlayingDuration": 199,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1876998308?i=1876998316"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-14 10:04:57",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 421485,
+        "nowPlayingTrack": "Dancing In The Flames",
+        "nowPlayingArtist": "The Weeknd",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/421485.jpg?ver=1726200359",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/421485.jpg?ver=1726200359",
+        "nowPlayingTime": "2026-03-14 10:01:18",
+        "nowPlayingDuration": 194,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1767511510?i=1767511583"
+    },
+    {
+        "nowPlayingTrackId": 957,
+        "nowPlayingTrack": "Bad Day",
+        "nowPlayingArtist": "Daniel Powter",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/814.jpg?ver=1465083626",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/814.jpg?ver=1465083626",
+        "nowPlayingTime": "2026-03-14 09:54:08",
+        "nowPlayingDuration": 223,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/63816246?i=63816165"
+    },
+    {
+        "nowPlayingTrackId": 397165,
+        "nowPlayingTrack": "Espresso",
+        "nowPlayingArtist": "Sabrina Carpenter",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/397165.jpg?ver=1713048903",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/397165.jpg?ver=1713048903",
+        "nowPlayingTime": "2026-03-14 09:51:30",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1740212432?i=1740212434"
+    },
+    {
+        "nowPlayingTrackId": 392501,
+        "nowPlayingTrack": "End Of Beginning",
+        "nowPlayingArtist": "Djo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/392501.jpg?ver=1709484571",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/392501.jpg?ver=1709484571",
+        "nowPlayingTime": "2026-03-14 09:48:51",
+        "nowPlayingDuration": 157,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1632447652?i=1632448108"
+    },
+    {
+        "nowPlayingTrackId": 2780,
+        "nowPlayingTrack": "DJ Got Us Fallin' In Love",
+        "nowPlayingArtist": "Usher ft. Pitbull",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/2780.jpg?ver=1464810189",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/2780.jpg?ver=1464810189",
+        "nowPlayingTime": "2026-03-14 09:44:44",
+        "nowPlayingDuration": 211,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/578034253?i=578034259"
+    },
+    {
+        "nowPlayingTrackId": 340631,
+        "nowPlayingTrack": "Flowers",
+        "nowPlayingArtist": "Miley Cyrus",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/340631.jpg?ver=1673587911",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/340631.jpg?ver=1673587911",
+        "nowPlayingTime": "2026-03-14 09:41:36",
+        "nowPlayingDuration": 187,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 432244,
+        "nowPlayingTrack": "Messy",
+        "nowPlayingArtist": "Lola Young",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/432244.jpg?ver=1734895998",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/432244.jpg?ver=1734895998",
+        "nowPlayingTime": "2026-03-14 09:33:08",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1743250148?i=1743250261"
+    },
+    {
+        "nowPlayingTrackId": 8511,
+        "nowPlayingTrack": "On Top Of The World",
+        "nowPlayingArtist": "Imagine Dragons",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/2067.jpg?ver=1465084228",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/2067.jpg?ver=1465084228",
+        "nowPlayingTime": "2026-03-14 09:30:17",
+        "nowPlayingDuration": 182,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/503171506?i=503171607"
+    },
+    {
+        "nowPlayingTrackId": 472549,
+        "nowPlayingTrack": "Vil du noget?",
+        "nowPlayingArtist": "Guldimund and Saveus",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/472549.jpg?ver=1760562126",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/472549.jpg?ver=1760562126",
+        "nowPlayingTime": "2026-03-14 09:26:53",
+        "nowPlayingDuration": 179,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1841393783?i=1841393787"
+    },
+    {
+        "nowPlayingTrackId": 438118,
+        "nowPlayingTrack": "Sorry I'm Here For Someone Else",
+        "nowPlayingArtist": "Benson Boone",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/438118.jpg?ver=1740758079",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/438118.jpg?ver=1740758079",
+        "nowPlayingTime": "2026-03-14 09:23:42",
+        "nowPlayingDuration": 151,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1797895103?i=1797895104"
+    },
+    {
+        "nowPlayingTrackId": 490507,
+        "nowPlayingTrack": "Ham Med Guitaren",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 09:16:21",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 9309,
+        "nowPlayingTrack": "Release Me",
+        "nowPlayingArtist": "Agnes",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/9309.jpg?ver=1464806322",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/9309.jpg?ver=1464806322",
+        "nowPlayingTime": "2026-03-14 09:12:08",
+        "nowPlayingDuration": 177,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/523084331?i=523084596"
+    },
+    {
+        "nowPlayingTrackId": 470654,
+        "nowPlayingTrack": "Stay",
+        "nowPlayingArtist": "Myles Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470654.jpg?ver=1758841783",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470654.jpg?ver=1758841783",
+        "nowPlayingTime": "2026-03-14 09:08:02",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837714947?i=1837714951"
+    },
+    {
+        "nowPlayingTrackId": 471971,
+        "nowPlayingTrack": "Opalite",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471971.jpg?ver=1760110846",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471971.jpg?ver=1760110846",
+        "nowPlayingTime": "2026-03-14 09:04:16",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843998665?i=1843998672"
+    },
+    {
+        "nowPlayingTrackId": 388485,
+        "nowPlayingTrack": "Stumblin' In",
+        "nowPlayingArtist": "CYRIL",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/388485.jpg?ver=1706687580",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/388485.jpg?ver=1706687580",
+        "nowPlayingTime": "2026-03-14 09:01:06",
+        "nowPlayingDuration": 196,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1716033381?i=1716033386"
+    },
+    {
+        "nowPlayingTrackId": 486822,
+        "nowPlayingTrack": "Homewrecker",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/486822.jpg?ver=1770351630",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/486822.jpg?ver=1770351630",
+        "nowPlayingTime": "2026-03-14 08:53:31",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1871595252?i=1871595253"
+    },
+    {
+        "nowPlayingTrackId": 606,
+        "nowPlayingTrack": "Am I Wrong",
+        "nowPlayingArtist": "Nico and Vinz",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/606.jpg?ver=1533138075",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/606.jpg?ver=1533138075",
+        "nowPlayingTime": "2026-03-14 08:49:26",
+        "nowPlayingDuration": 229,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/693169584?i=693169631"
+    },
+    {
+        "nowPlayingTrackId": 489182,
+        "nowPlayingTrack": "Flue i et spind",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489182.jpg?ver=1772158395",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489182.jpg?ver=1772158395",
+        "nowPlayingTime": "2026-03-14 08:41:55",
+        "nowPlayingDuration": 184,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1875110038?i=1875110039"
+    },
+    {
+        "nowPlayingTrackId": 469920,
+        "nowPlayingTrack": "Bedre Held Næste Gang",
+        "nowPlayingArtist": "Ella Augusta ft. Ida Laurberg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469920.jpg?ver=1758065051",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469920.jpg?ver=1758065051",
+        "nowPlayingTime": "2026-03-14 08:33:59",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1834459829?i=1834459843"
+    },
+    {
+        "nowPlayingTrackId": 13174,
+        "nowPlayingTrack": "Whatcha Say",
+        "nowPlayingArtist": "Jason Derulo",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/13174.jpg?ver=1464808210",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/13174.jpg?ver=1464808210",
+        "nowPlayingTime": "2026-03-14 08:30:20",
+        "nowPlayingDuration": 212,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/353554371?i=353554372"
+    },
+    {
+        "nowPlayingTrackId": 401177,
+        "nowPlayingTrack": "Stargazing",
+        "nowPlayingArtist": "Myles Smith",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/401177.jpg?ver=1716132843",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/401177.jpg?ver=1716132843",
+        "nowPlayingTime": "2026-03-14 08:24:26",
+        "nowPlayingDuration": 165,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1742275516?i=1742275653"
+    },
+    {
+        "nowPlayingTrackId": 482873,
+        "nowPlayingTrack": "drømmefanger",
+        "nowPlayingArtist": "Mille ft. URO",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482873.jpg?ver=1767916284",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482873.jpg?ver=1767916284",
+        "nowPlayingTime": "2026-03-14 08:18:09",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859969180?i=1859969181"
+    },
+    {
+        "nowPlayingTrackId": 468804,
+        "nowPlayingTrack": "The Dead Dance",
+        "nowPlayingArtist": "Lady GaGa",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/29.jpg?ver=1465083169",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/29.jpg?ver=1465083169",
+        "nowPlayingTime": "2026-03-14 08:14:34",
+        "nowPlayingDuration": 218,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1837298856?i=1837298858"
+    },
+    {
+        "nowPlayingTrackId": 489172,
+        "nowPlayingTrack": "Fever Dream",
+        "nowPlayingArtist": "Alex Warren",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/489172.jpg?ver=1772153474",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/489172.jpg?ver=1772153474",
+        "nowPlayingTime": "2026-03-14 08:11:59",
+        "nowPlayingDuration": 150,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1804419951?i=1804420167"
+    },
+    {
+        "nowPlayingTrackId": 40713,
+        "nowPlayingTrack": "What About Us",
+        "nowPlayingArtist": "P!nk",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/40713.jpg?ver=1533138918",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/40713.jpg?ver=1533138918",
+        "nowPlayingTime": "2026-03-14 08:04:20",
+        "nowPlayingDuration": 213,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1269268686?i=1269268841"
+    },
+    {
+        "nowPlayingTrackId": 470866,
+        "nowPlayingTrack": "Where Is My Husband!",
+        "nowPlayingArtist": "Raye",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/470866.jpg?ver=1759048685",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/470866.jpg?ver=1759048685",
+        "nowPlayingTime": "2026-03-14 08:01:06",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1838737596?i=1838737598"
+    },
+    {
+        "nowPlayingTrackId": 301021,
+        "nowPlayingTrack": "Hjem Fra Fabrikken",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/301021.jpg?ver=1646395097",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/301021.jpg?ver=1646395097",
+        "nowPlayingTime": "2026-03-14 07:53:07",
+        "nowPlayingDuration": 201,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1610636951?i=1610637256"
+    },
+    {
+        "nowPlayingTrackId": 170012,
+        "nowPlayingTrack": "Dancing In The Moonlight",
+        "nowPlayingArtist": "Jubel ft. Neimy",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/170012.jpg?ver=1581297977",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/170012.jpg?ver=1581297977",
+        "nowPlayingTime": "2026-03-14 07:50:32",
+        "nowPlayingDuration": 151,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1386788837?i=1386789352"
+    },
+    {
+        "nowPlayingTrackId": 469911,
+        "nowPlayingTrack": "Fire Uger",
+        "nowPlayingArtist": "Mumle",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469911.jpg?ver=1758059707",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469911.jpg?ver=1758059707",
+        "nowPlayingTime": "2026-03-14 07:43:24",
+        "nowPlayingDuration": 200,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1835404293?i=1835404295"
+    },
+    {
+        "nowPlayingTrackId": 462720,
+        "nowPlayingTrack": "Rein Me In",
+        "nowPlayingArtist": "Sam Fender ft. Olivia Dean",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/462720.jpg?ver=1750617609",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/462720.jpg?ver=1750617609",
+        "nowPlayingTime": "2026-03-14 07:35:06",
+        "nowPlayingDuration": 239,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1820918843?i=1820918844"
+    },
+    {
+        "nowPlayingTrackId": 12615,
+        "nowPlayingTrack": "Umbrella",
+        "nowPlayingArtist": "Rihanna and Jay-Z",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/12615.jpg?ver=1464810437",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/12615.jpg?ver=1464810437",
+        "nowPlayingTime": "2026-03-14 07:30:47",
+        "nowPlayingDuration": 221,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/256013912?i=256013915"
+    },
+    {
+        "nowPlayingTrackId": 432641,
+        "nowPlayingTrack": "Du Ligner Din Mor",
+        "nowPlayingArtist": "Benjamin Hav ft. Lukas Graham",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/432641.jpg?ver=1735254303",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/432641.jpg?ver=1735254303",
+        "nowPlayingTime": "2026-03-14 07:24:32",
+        "nowPlayingDuration": 169,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1782092223?i=1782092422"
+    },
+    {
+        "nowPlayingTrackId": 483859,
+        "nowPlayingTrack": "Dét Der Er Med Livet",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/483859.jpg?ver=1768524255",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/483859.jpg?ver=1768524255",
+        "nowPlayingTime": "2026-03-14 07:17:13",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859548916?i=1859548917"
+    },
+    {
+        "nowPlayingTrackId": 275321,
+        "nowPlayingTrack": "Cold Heart",
+        "nowPlayingArtist": "Elton John and Dua Lipa",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/275321.jpg?ver=1628824383",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/275321.jpg?ver=1628824383",
+        "nowPlayingTime": "2026-03-14 07:14:01",
+        "nowPlayingDuration": 202,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1578986656?i=1578986673"
+    },
+    {
+        "nowPlayingTrackId": 471893,
+        "nowPlayingTrack": "Gone Gone Gone",
+        "nowPlayingArtist": "David Guetta ft. Teddy Swims ft. Tones and I",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471893.jpg?ver=1760044756",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471893.jpg?ver=1760044756",
+        "nowPlayingTime": "2026-03-14 07:10:43",
+        "nowPlayingDuration": 193,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1843159672?i=1843159674"
+    },
+    {
+        "nowPlayingTrackId": 129941,
+        "nowPlayingTrack": "Don't Call Me Up",
+        "nowPlayingArtist": "Mabel",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/129941.jpg?ver=1547775419",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/129941.jpg?ver=1547775419",
+        "nowPlayingTime": "2026-03-14 07:04:26",
+        "nowPlayingDuration": 166,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1447869528?i=1447869530"
+    },
+    {
+        "nowPlayingTrackId": 482903,
+        "nowPlayingTrack": "Jeg Tror Jeg Elsker Dig For Evigt",
+        "nowPlayingArtist": "Andreas Odbjerg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482903.jpg?ver=1767927871",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482903.jpg?ver=1767927871",
+        "nowPlayingTime": "2026-03-14 07:01:12",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859547515?i=1859547516"
+    },
+    {
+        "nowPlayingTrackId": 482912,
+        "nowPlayingTrack": "I Just Might",
+        "nowPlayingArtist": "Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482912.jpg?ver=1767939696",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482912.jpg?ver=1767939696",
+        "nowPlayingTime": "2026-03-14 06:53:19",
+        "nowPlayingDuration": 207,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1866732792?i=1866732800"
+    },
+    {
+        "nowPlayingTrackId": 3329,
+        "nowPlayingTrack": "Euphoria",
+        "nowPlayingArtist": "Loreen",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/3329.jpg?ver=1464810747",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/3329.jpg?ver=1464810747",
+        "nowPlayingTime": "2026-03-14 06:50:20",
+        "nowPlayingDuration": 171,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/499907070?i=499907132"
+    },
+    {
+        "nowPlayingTrackId": 484894,
+        "nowPlayingTrack": "Aperture",
+        "nowPlayingArtist": "Harry Styles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/484894.jpg?ver=1769127517",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/484894.jpg?ver=1769127517",
+        "nowPlayingTime": "2026-03-14 06:47:07",
+        "nowPlayingDuration": 203,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1870984032?i=1870984033"
+    },
+    {
+        "nowPlayingTrackId": 440956,
+        "nowPlayingTrack": "Undressed",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/440956.jpg?ver=1743844300",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/440956.jpg?ver=1743844300",
+        "nowPlayingTime": "2026-03-14 06:41:36",
+        "nowPlayingDuration": 172,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1802084937?i=1802084938"
+    },
+    {
+        "nowPlayingTrackId": 33713,
+        "nowPlayingTrack": "Aisha",
+        "nowPlayingArtist": "Outlandish",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/33713.jpg?ver=1491602583",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/33713.jpg?ver=1491602583",
+        "nowPlayingTime": "2026-03-14 06:32:43",
+        "nowPlayingDuration": 180,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 488394,
+        "nowPlayingTrack": "Før Vi Går Hjem",
+        "nowPlayingArtist": "Søren Torpegaard Lund",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/488394.jpg?ver=1771506157",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/488394.jpg?ver=1771506157",
+        "nowPlayingTime": "2026-03-14 06:29:53",
+        "nowPlayingDuration": 168,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1660255833?i=1660255841"
+    },
+    {
+        "nowPlayingTrackId": 437378,
+        "nowPlayingTrack": "Er Det Mig Du Elsker?",
+        "nowPlayingArtist": "Malte Ebert",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/437378.jpg?ver=1739957429",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/437378.jpg?ver=1739957429",
+        "nowPlayingTime": "2026-03-14 06:24:14",
+        "nowPlayingDuration": 165,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/201683251?i=201684907"
+    },
+    {
+        "nowPlayingTrackId": 458286,
+        "nowPlayingTrack": "En drøm om et menneske",
+        "nowPlayingArtist": "Aphaca",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/458286.jpg?ver=1747430034",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/458286.jpg?ver=1747430034",
+        "nowPlayingTime": "2026-03-14 06:18:06",
+        "nowPlayingDuration": 170,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1809265463?i=1809265464"
+    },
+    {
+        "nowPlayingTrackId": 324586,
+        "nowPlayingTrack": "Kiss Me",
+        "nowPlayingArtist": "Dermot Kennedy",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/324586.jpg?ver=1662298266",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/324586.jpg?ver=1662298266",
+        "nowPlayingTime": "2026-03-14 06:14:25",
+        "nowPlayingDuration": 216,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1631859030?i=1631859278"
+    },
+    {
+        "nowPlayingTrackId": 488393,
+        "nowPlayingTrack": "Louisiana",
+        "nowPlayingArtist": "Sofie1998",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 06:10:56",
+        "nowPlayingDuration": 205,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 14353,
+        "nowPlayingTrack": "Treat You Better",
+        "nowPlayingArtist": "Shawn Mendes",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/14353.jpg?ver=1465300982",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/14353.jpg?ver=1465300982",
+        "nowPlayingTime": "2026-03-14 06:04:09",
+        "nowPlayingDuration": 177,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1143649062?i=1143649132"
+    },
+    {
+        "nowPlayingTrackId": 490507,
+        "nowPlayingTrack": "Ham Med Guitaren",
+        "nowPlayingArtist": "Christopher",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/0.jpg",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/0.jpg",
+        "nowPlayingTime": "2026-03-14 06:00:55",
+        "nowPlayingDuration": 192,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 469802,
+        "nowPlayingTrack": "Talk To Me",
+        "nowPlayingArtist": "Damiano David, Tyla, Nile Rodgers",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/469802.jpg?ver=1757888215",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/469802.jpg?ver=1757888215",
+        "nowPlayingTime": "2026-03-14 05:54:06",
+        "nowPlayingDuration": 189,
+        "nowPlayingAppleMusicUrl": null
+    },
+    {
+        "nowPlayingTrackId": 13274,
+        "nowPlayingTrack": "When You're Looking Like That",
+        "nowPlayingArtist": "Westlife",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/364.jpg?ver=1465083368",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/364.jpg?ver=1465083368",
+        "nowPlayingTime": "2026-03-14 05:50:13",
+        "nowPlayingDuration": 224,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/255641168?i=255643009"
+    },
+    {
+        "nowPlayingTrackId": 467598,
+        "nowPlayingTrack": "Man I Need",
+        "nowPlayingArtist": "Olivia Dean",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/467598.jpg?ver=1755444758",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/467598.jpg?ver=1755444758",
+        "nowPlayingTime": "2026-03-14 05:47:18",
+        "nowPlayingDuration": 181,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1817609404?i=1817609509"
+    },
+    {
+        "nowPlayingTrackId": 1684,
+        "nowPlayingTrack": "Budapest",
+        "nowPlayingArtist": "George Ezra",
+        "nowPlayingImage": "https://assets.planetradio.co.uk/artist/1-1/320x320/132.jpg?ver=1465083226",
+        "nowPlayingSmallImage": "https://assets.planetradio.co.uk/artist/1-1/160x160/132.jpg?ver=1465083226",
+        "nowPlayingTime": "2026-03-14 05:43:54",
+        "nowPlayingDuration": 190,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/705812821?i=705812855"
+    },
+    {
+        "nowPlayingTrackId": 410723,
+        "nowPlayingTrack": "Die With A Smile",
+        "nowPlayingArtist": "Lady GaGa and Bruno Mars",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/410723.jpg?ver=1723785725",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/410723.jpg?ver=1723785725",
+        "nowPlayingTime": "2026-03-14 05:41:13",
+        "nowPlayingDuration": 175,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1762656724?i=1762656732"
+    },
+    {
+        "nowPlayingTrackId": 482654,
+        "nowPlayingTrack": "En Anden Planet",
+        "nowPlayingArtist": "Ida Laurberg",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482654.jpg?ver=1767736969",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482654.jpg?ver=1767736969",
+        "nowPlayingTime": "2026-03-14 05:32:45",
+        "nowPlayingDuration": 181,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1842347378?i=1842347379"
+    },
+    {
+        "nowPlayingTrackId": 471173,
+        "nowPlayingTrack": "The Fate Of Ophelia",
+        "nowPlayingArtist": "Taylor Swift",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/471173.jpg?ver=1759465087",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/471173.jpg?ver=1759465087",
+        "nowPlayingTime": "2026-03-14 05:28:59",
+        "nowPlayingDuration": 120,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1833328839?i=1833328840"
+    },
+    {
+        "nowPlayingTrackId": 164045,
+        "nowPlayingTrack": "Adore You",
+        "nowPlayingArtist": "Harry Styles",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/164045.jpg?ver=1575620348",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/164045.jpg?ver=1575620348",
+        "nowPlayingTime": "2026-03-14 05:25:43",
+        "nowPlayingDuration": 144,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1485802965?i=1485802970"
+    },
+    {
+        "nowPlayingTrackId": 218582,
+        "nowPlayingTrack": "Save Your Tears",
+        "nowPlayingArtist": "The Weeknd",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/218582.jpg?ver=1616179588",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/218582.jpg?ver=1616179588",
+        "nowPlayingTime": "2026-03-14 05:22:09",
+        "nowPlayingDuration": 216,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1499378108?i=1499378613"
+    },
+    {
+        "nowPlayingTrackId": 482873,
+        "nowPlayingTrack": "drømmefanger",
+        "nowPlayingArtist": "Mille ft. URO",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/482873.jpg?ver=1767916284",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/482873.jpg?ver=1767916284",
+        "nowPlayingTime": "2026-03-14 05:16:00",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1859969180?i=1859969181"
+    },
+    {
+        "nowPlayingTrackId": 466190,
+        "nowPlayingTrack": "12 to 12",
+        "nowPlayingArtist": "sombr",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/466190.jpg?ver=1754213302",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/466190.jpg?ver=1754213302",
+        "nowPlayingTime": "2026-03-14 05:12:12",
+        "nowPlayingDuration": 228,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1828036634?i=1828036635"
+    },
+    {
+        "nowPlayingTrackId": 464219,
+        "nowPlayingTrack": "Daisies",
+        "nowPlayingArtist": "Justin Bieber",
+        "nowPlayingImage": "https://media.bauerradio.com/image/upload/tracks/464219.jpg?ver=1752215271",
+        "nowPlayingSmallImage": "https://media.bauerradio.com/image/upload/tracks/160x160/464219.jpg?ver=1752215271",
+        "nowPlayingTime": "2026-03-14 05:09:14",
+        "nowPlayingDuration": 140,
+        "nowPlayingAppleMusicUrl": "https://geo.itunes.apple.com/dk/album/1825998885?i=1825998889"
+    },
+    {
         "nowPlayingTrackId": 26045,
         "nowPlayingTrack": "Tik Tok",
         "nowPlayingArtist": "Ke$ha",
